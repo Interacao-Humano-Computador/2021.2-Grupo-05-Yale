@@ -1,3 +1,13 @@
+# <center>Resumos
+
+### Histórico de Versão
+|    Data    | Versão | Descrição            | Autor(es)       |
+| :--------: | :----: | :------------------: | :-------------: |
+| 10.02.2022 |  0.1   | Criação do documento | Pedro Helias Carlos |
+| 13.02.2022 |  0.2   | Adição de algumas análises e correções | Pedro Helias Carlos |
+
+<div align="justify">
+
 ## Pedro
 
 <p>Foram feitas as análises dos sites https://www.ingresso.com e https://musikcity.mus.br/. São sites diametralmente opostos, em nível de qualidade e desenvolvimento. Por um lado a bilheteria digital possui um site robusto e bem feito(problemas de design não voltado ao minimalismo e excesso de informação não semelhante ao assunto), por outro lado temos um site de uma gravadora bastante mal feito, apesar de que exerce aquilo que se propõe. O Musikcity, apesar de conter fatores importantes a serem analisados no projeto, não foi selecionado pois o mesmo já foi utilizado por outra equipe em semestres posteriores.</p>
@@ -28,10 +38,10 @@ Não foi escolhido para o projeto pois já foi utilizado por outro grupo na mat�
 <p>Foi realizada a análise do site https://www.art.yale.edu/ que representa o site da escola de artes da YALE, uma universidade americana.
 Este site possui uma interface totalmente não amigável e com navegação difícil. Por pertencer a um instituto de artes de uma renomada universidade, o website deveria possuir uma qualidade de interação maior, tendo uma navegação mais facilitada e um design mais atraente para os que tentam navegar e descobrir informações importantes sobre a universidade em questão. O site foi escolhido pela equipe por ser um dos com menor qualidade de navegação.
 
-interface totalmente não amigável e com navegação difícil
+- interface totalmente não amigável e com navegação difícil
 
-tendo uma navegação mais facilitada e um design mais atraente
+- tendo uma navegação mais facilitada e um design mais atraente
 
-problemas de design não voltado ao minimalismo e excesso de informação não semelhante ao assunto
+- problemas de design não voltado ao minimalismo e excesso de informação não semelhante ao assunto
 
 </p>
