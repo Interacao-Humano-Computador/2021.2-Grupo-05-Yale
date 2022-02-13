@@ -43,5 +43,6 @@
 |  | <ul><li>Organização Final para apresentação do Projeto Final da Disciplina.</li></ul> |      
 | 25.04.2020 | Entrega da apresentação do projeto final |     
 
+<p>As datas e issues específicas entre entregas serão definidas após cada entrega anterior</p>
 
 Vale lembrar que tal programação foi determinada seguindo a primeira entrega, ou seja, não possui programação anterior
