@@ -14,15 +14,21 @@
 |    Data    |        Descrição        |
 | :--------: | :---------------------: |
 | 03.02.2022 |  Desenvolvimento do Projeto: Planejamento do Projeto e Processo de Design |
-|  |  - Definição da forma que o grupo vai trabalhar.
-      - Definição de Sprints e Issues baseadas em parâmetros discutido em grupo. |
+|  | <ul><li>Definição da forma que o grupo vai trabalhar.</li><li>Definição de Sprints e Issues baseadas em parâmetros discutido em grupo.</li></ul> |
 | 13.02.2020 | Entrega da apresentação do projeto etapa 1: Planejamento do Projeto, equipe, listas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividadeo |
+|  | <ul><li>Definição da forma que o grupo vai trabalhar.</li><li>Definição de Sprints e Issues baseadas em parâmetros discutido em grupo.</li></ul> |
 | 17.02.2020 | Apresentação do projeto etapa 1: planejamento do projeto e do Processo de Design. |
+|  | <ul><li>Definição da forma que o grupo vai trabalhar.</li><li>Definição de Sprints e Issues baseadas em parâmetros discutido em grupo.</li></ul> |
 | 13.02.2020 | Alterações no documento |
+|  | <ul><li>Definição da forma que o grupo vai trabalhar.</li><li>Definição de Sprints e Issues baseadas em parâmetros discutido em grupo.</li></ul> |
 | 13.02.2020 | Alterações no documento |
+|  | <ul><li>Definição da forma que o grupo vai trabalhar.</li><li>Definição de Sprints e Issues baseadas em parâmetros discutido em grupo.</li></ul> |
 | 13.02.2020 | Alterações no documento |
+|  | <ul><li>Definição da forma que o grupo vai trabalhar.</li><li>Definição de Sprints e Issues baseadas em parâmetros discutido em grupo.</li></ul> |
 | 13.02.2020 | Alterações no documento |
+|  | <ul><li>Definição da forma que o grupo vai trabalhar.</li><li>Definição de Sprints e Issues baseadas em parâmetros discutido em grupo.</li></ul> |      
 | 13.02.2020 | Alterações no documento |
+|  | <ul><li>Definição da forma que o grupo vai trabalhar.</li><li>Definição de Sprints e Issues baseadas em parâmetros discutido em grupo.</li></ul> |      
 
 
 Vale lembrar que tal programação foi determinada seguindo a primeira entrega, ou seja, não possui programação anterior
