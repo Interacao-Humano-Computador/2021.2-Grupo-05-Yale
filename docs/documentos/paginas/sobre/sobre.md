@@ -6,10 +6,6 @@
 | :--------: | :----: | :------------------: | :-----------------: |
 | 13.02.2020 |  0.1   | Criação do documento | Pedro Helias Carlos |
 
-# Grupo 5 - YALE
-
-## Equipe:
-
 | Foto                                                                                               | Nome             | GitHub                                                | E-mail                          |
 | -------------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | ------------------------------- |
 | <img width='80' src='https://avatars.githubusercontent.com/u/30875663?v=4' alt='Imagem de perfil'> | Pedro Helias     | [pedrohelias](https://github.com/pedrohelias)         | pedrohelias95@hotmail.com       |
