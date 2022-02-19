@@ -16,26 +16,64 @@
 
 <p>A política de commits segue o seguinte padrão: Associar diretamente os commits a suas respectivas issues a partir do valor pré-determinado em sua criação. </p>
 
+<div align="center">
+
 <figcaption>Figura 1. Exemplo de Commit</figcaption>
 
 <img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/commit.png?raw=true"  />
+
+</div>
 
 <p>Juntamente ao commit deve seguir uma breve frase que descreva o que foi realizado no commit adicionado.</p>
 
 ### 1.2 <i>Pull Requests</i>
 
+<p>Os <i>Pull Requests</i> devem ocorrer com páginas a serem atribuidas diretamente a documentação presente na main, respeitando as políticas de criação de <i>branches</i>, a serem explicadas mais a frente. </p>
+
 ### 1.3 <i>Branchs</i>
+
+<p>As <i>Branches</i> devem ser criadas seguindo o seguinte padrão: "#(numero da issue)/nome da issue". Assim, garante-se que estejam auto-explicativas, evitando confusão ou possíveis problemas que possam ocorrer com as issues.</p>
+
+<div align="center">
+
+<figcaption>Figura 2. Exemplo de branch</figcaption>
+
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/branch.png?raw=true"  />
+
+</div>
+
+<p>É importante fechar as <i>branches</i> sempre que as mesmas sofram <i>merge</i>. Existem duas <i>branchs</i> fixas no projeto: <i>Main</i> e Início. Naturalmente a <i>branch</i> <i>Main</i> será fixa no projeto pois indicará os documentos principais. A <i>branch</i> Início representa o <i>Github Pages</i> e por isso se torna fixa. Toda e qualquer alteração no site é realizada nessa branch e não sofrerá merge - a princípio.</p>
 
 ### 1.4 <i>Issues</i>
 
-## 2.Gerenciamento de projetos - SCRUM
+<p>As <i>issues</i> são criadas de acordo com as necessidades do projeto. Em todas as sprints a criação de novas <i>issues</i> é debatida entre os membros e editas no <i>github</i>. É utilizado o número gerado quando a <i>issue</i> é criada para referencia-la. É esse número que será referenciado em <i>commits</i> e <i>branchs</i>.</p>
 
-## 3.Comunicação dos membros do time
+<div align="center">
+
+<figcaption>Figura 3. Listas de  Issues criadas no momento da captação dessa imagem</figcaption>
+
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/issues.png?raw=true"  />
+
+</div>
+
+<p>As <i>issues</i> possuem <i>milestone</i> para indicar uma linha do tempo desde a sua criação até seu encerramento, lista de membros associados a <i>issue</i>, e um breve texto sobre o que será desenvolvido.</p>
+
+<div align="center">
+
+<figcaption>Figura 4. <i>Issue</i> com seus respectivos associados.</figcaption>
+
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/milestone.png?raw=true"  />
+
+</div>
+
+## 2. Gerenciamento de projetos - SCRUM
+
+## 3. Comunicação dos membros do time
 
 <p>Os membros do time fundaram um grupo no aplicativo <i>Whatsapp</i> no início do semestre. Este grupo tem como fim organizar reuniões e debates a respeito do desenvolvimento do projeto e assuntos relacionados a matéria. </p>
 <p>Outro meio de comunicação é o canal fixo no aplicativo <i>Meets</i>, no qual são realizadas as reuniões semanais (<i>Sprints</i>) para organização das entregas, abertura e fechamento de <i>Issues</i>, conclusões de possíveis <i>merges</i>, entre outras atividades com relevância para serem discutidas. </p>
 
-## 4.Desenvolvimento do <i>Github Pages</i>
+## 4. Desenvolvimento do <i>Github Pages</i>
 
 <p>Para editar o <i>Github Pages</i> adotou-se certas estratégias como:</p>
 
