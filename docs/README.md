@@ -1,4 +1,11 @@
 YALE - Análise e avaliação da interface do setor de artes da Universidade Yale
+div align="center">
+
+<figcaption> </figcaption>
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/yale-university-logo-5814918942-seeklogo.com.png?raw=true"  />
+
+</div>
+
 
  O site escolhido é da Universidade Yale que é uma instituição de ensino superior privada americana, situada em New Haven, Connecticut. Fundada em 1701 sob o nome de Collegiate School, é a terceira mais antiga instituição de ensino superior dos Estados Unidos
  
