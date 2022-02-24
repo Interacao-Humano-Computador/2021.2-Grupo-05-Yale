@@ -1,4 +1,4 @@
-YALE - Análise e avaliação da interface do setor de artes da Universidade Yale
+<h2 align="center"> YALE - Análise e avaliação da interface do setor de artes da Universidade Yale </h2>
 <div align="center">
 
 <figcaption> </figcaption>
