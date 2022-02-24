@@ -10,6 +10,7 @@
   - [Metodologia](documentos/paginas/projeto/metodologia/metodologia.md)
   - [Ferramentas do Projeto](documentos/paginas/projeto/ferramentasDoProjeto/ferramentasDoProjeto.md)
   - [Processos de Design](documentos/paginas/projeto/processoDeDesign/processoDeDesign.md)
+  - [Personas](documentos/paginas/projeto/Personas/personas.md)
 
 - **Apresentações**
 
