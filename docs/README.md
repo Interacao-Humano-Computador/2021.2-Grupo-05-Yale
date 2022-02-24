@@ -1,4 +1,4 @@
-<h2 align="center"> YALE - Análise e avaliação da interface do setor de artes da Universidade Yale </h2>
+<h1 align="center"> YALE - Análise e avaliação da interface do setor de artes da Universidade Yale </h1>
 <div align="center">
 
 <figcaption> </figcaption>
@@ -15,3 +15,16 @@
 
 O sistema dos edifícios residenciais de Yale, baseado nos da Universidade de Oxford e da Universidade de Cambridge, é único entre as universidades dos Estados Unidos. Cada um dos 14 colégios residenciais (residential colleges) abriga um grupo representativo do corpo estudantil e dispõe de várias instalações técnicas, seminários acadêmicos, bem como um Head of College e um Dean, professores que moram nos colégios residenciais (residential colleges) com suas famílias e são responsáveis pelas atividades sociais do college e acompanhamento acadêmico de seus alunos. Até 2017, Yale tinha somente 12 residential colleges.
 </div>
+
+<h2 align="center"> Análise incipiente do site </h2>
+
+ <div align="justify">
+ Este site possui uma interface totalmente não amigável e com navegação difícil. Por pertencer a um instituto de artes de uma renomada universidade, o website deveria possuir uma qualidade de interação maior, tendo uma navegação mais facilitada e um design mais atraente para os que tentam navegar e descobrir informações importantes sobre a universidade em questão. O site foi escolhido pela equipe por ser um dos com menor qualidade de navegação.
+
+* Interface totalmente não amigável e com navegação difícil;
+
+* Tendo uma navegação mais facilitada e um design mais atraente;
+
+* Problemas de design não voltado ao minimalismo e excesso de informação não semelhante ao assunto.
+</div>
+
