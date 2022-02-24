@@ -5,6 +5,8 @@
 |    Data    | Versão |         Descrição          |      Autor(es)      | Revisor(es) |
 | :--------: | :----: | :------------------------: | :-----------------: | :---------: |
 | 19.02.2022 |  0.1   | Revitalização do documento | Pedro Helias Carlos |             |
+| 24.02.2022 |  0.2   | Atualização documento      | Pedro Helias Carlos |             |
+    
 
 <div align="justify">
 
