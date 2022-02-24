@@ -68,6 +68,28 @@
 
 ## 2. Gerenciamento de projetos - SCRUM
 
+<p>Em necessidade de prover maior gerenciamento da equipe, optou-se por utilizar a metodologia SCRUM. Essa metodologia é altamente utilizada em projetos e desenvolvimento de softwares, com histórico de funcionamento comprovado por grandes marcas do mercado e material referencial desenvolvido. </p>
+
+<p>O SCRUM é uma estrutura desenvolvida para gerenciamento, seguindo os princípios a seguir:</p>
+
+<ul>
+    <li>Flexibilidade  dos Resultados</li>
+    <li>Funcionamento em times pequenos</li>
+    <li>Sprints</li>
+    <li>Colaboração Mútua</li>
+
+</ul>
+
+### 2.1 <i>Sprint</i>
+
+<p>É um período especificamente definido pela equipe com o intuito de desenvolver as atividades pré definidas. Pode ter durações diferentes, porém fixas. Ou seja, se foi definido por 1 semana, o correto é manter de semana a semana. Se foi definido por sprints mensais, então é necessário manter. Para o nosso projeto, delimitou-se 1 semana de duração, com reuniões as quintas-feiras. Para o projeto, há a gerência das reuniões e construções de atas. </p>
+
+<p>Utilizamos Issues para definir as tarefas das sprints.
+Também estamos utilizando o Pair Programing para resoluçaõ desses problemas dispostos nas issues.
+</p>
+
+<p>Esse método atua conjuntamente com o rodízio de pessoas, para que todos possam trabalhar em conjunto com diferentes pessoas. </p>
+
 ## 3. Comunicação dos membros do time
 
 <p>Os membros do time fundaram um grupo no aplicativo <i>Whatsapp</i> no início do semestre. Este grupo tem como fim organizar reuniões e debates a respeito do desenvolvimento do projeto e assuntos relacionados a matéria. </p>
