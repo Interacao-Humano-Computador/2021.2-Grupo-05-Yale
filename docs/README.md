@@ -1,5 +1,5 @@
 YALE - Análise e avaliação da interface do setor de artes da Universidade Yale
-div align="center">
+<div align="center">
 
 <figcaption> </figcaption>
 <img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/yale-university-logo-5814918942-seeklogo.com.png?raw=true"  />
