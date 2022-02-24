@@ -33,6 +33,14 @@ Não foi escolhido para o projeto pois já foi utilizado por outro grupo na mat�
 
 </p>
 
+## Ana Júlia
+
+<p>Um dos sites avaliados foi o GEIPOT - Grupo Executivo de Integração da Política de Transportes, disponível no seguinte link: http://geipot.gov.br/
+É um site governamental, que não ficou claro qual é o seu objetivo. Ele possui informações sobre política de transportes, sobre a empresa, as licitações aprovadas. Parece um portal de transparência da empresa sobre os serviços que ela prestou. Alguns problemas com o site que foram observados, é a falta de responsividade da tela, é pouco intuitivo, o usuário não consegue navegar com facilidade, assim como não consegue achar seus objetivos.
+Esse site não foi escolhido, porque apesar de pecar bastante no design, achamos um que apresentava problemas maiores.
+
+</p>
+
 ## Carlos Godoy
 
 <p>Foi realizada a análise do site https://www.art.yale.edu/ que representa o site da escola de artes da YALE, uma universidade americana.
