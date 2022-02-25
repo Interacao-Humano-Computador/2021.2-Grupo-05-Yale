@@ -1,7 +1,6 @@
 - **Introdução**
 
   - [Sobre a Equipe](documentos/paginas/sobre/sobre.md)
-  - [Projeto](documentos/paginas/projeto/siteEscolhido/siteEscolhido.md)
   - [Análises dos sites](documentos/paginas/resumos/resumos.md)
   - [Cronograma](documentos/paginas/cronograma/cronograma.md)
 
@@ -11,6 +10,7 @@
   - [Ferramentas do Projeto](documentos/paginas/projeto/ferramentasDoProjeto/ferramentasDoProjeto.md)
   - [Processos de Design](documentos/paginas/projeto/processoDeDesign/processoDeDesign.md)
   - [Personas](documentos/paginas/projeto/Personas/personas.md)
+  - [Análise de Tarefas](documentos/paginas/projeto/analiseDeTarefas/analiseDeTarefas.md)
 
 - **Apresentações**
 
