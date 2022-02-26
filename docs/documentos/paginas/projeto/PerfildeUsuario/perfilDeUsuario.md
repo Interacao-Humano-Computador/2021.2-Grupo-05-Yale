@@ -15,5 +15,5 @@ Com base em uma pesquisa realizada pelos integrantes do grupo, foram obtidas div
 ## Características do usuário
 <p>
 Nossos usuários são desde os mais leigos aos mais entendidos de navegação web, sendo que todos possuem o interesse em conhecer o departamento de artes da Universidade YALE. 
-Possuindo entre 18 e 22 anos, nossos usuários devem ser entretidos pelo design e usabilidade do site, fazendo com que sintam mais interesse pela universidade, podendo assim, se tornarem alunos.
+Possuindo entre 18 e 22 anos, nossos usuários devem ser entretidos pelo design e usabilidade do site, fazendo com que sintam mais interesse pela universidade, podendo assim, se tornarem alunos. 
 </p>
