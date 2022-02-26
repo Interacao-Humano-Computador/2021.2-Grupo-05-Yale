@@ -36,9 +36,11 @@ A seguinte representação demonstra um diagrama básico a respeito da estrutura
 
 <img width="450" src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/estrutura_hta.png?raw=true"  />
 
-<b>
-fonte:</b>
- BARBOSA, 2010
+</div>
+
+<div align="center">
+
+<b>fonte:</b> BARBOSA, 2010
 
 </div>
 
