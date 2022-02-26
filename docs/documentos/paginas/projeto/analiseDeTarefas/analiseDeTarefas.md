@@ -1,12 +1,13 @@
 ## Histórico de Versão
 
-| Data       | Versão | Descrição            | Autor(es)                   | Revisor(es) |
-| ---------- | ------ | -------------------- | --------------------------- | ----------- |
-| 25/02/2022 | 0.1    | Criação do documento | Pedro Helias Carlos, Maicon |             |
+| Data       | Versão | Descrição              | Autor(es)     | Revisor(es) |
+| ---------- | ------ | ---------------------- | ------------- | ----------- |
+| 24/02/2022 | 0.1    | Criação do documento   | Pedro, Maicon |             |
+| 26/02/2022 | 0.2    | Melhorias no documento | Pedro, Maicon |             |
 
 <div align="justify">
 
-# Introdução
+# 1. Introdução.
 
 Análise de Tarefas consiste em procedimentos para entender qual é o trabalho dos usuários, como esse trabalho é realizado e a motivação por trás, o por quê desse trabalho. Quando se define trabalho, realiza-se menção direta aos objetivos do usuário quanto ao sistemas - quais objetivos o usuário almenja atingir. O que se busca com essa análise, e até se define como característica crucial, é entender e definir o que seria o "Desempenho satisfatório" do sistema. É entender como o sistema de trabalho afeta o domínio da aplicação, e vice-versa.
 
@@ -14,7 +15,7 @@ Especificamente, a análise de tarefas é utilizada em 3 atividades: Quando se p
 
 Dentre os métodos para avaliar a Análise de Tarefas, temos a Análise Hierárquica de Tarefas.
 
-# Análise Hierárquica de Tarefas(AHT)
+# 2. Análise Hierárquica de Tarefas(AHT).
 
 Esse método foi desenvolvido para entender as competências e habilidades exibidas em tarefas complexas e não repetitivas - por exemplo serviços de compra, login, adição de atividade em calendário, entre outros. Além disso, essa técnica detecta o comportamento e direcionamento de um site/sistema, e assim auxiliar na identificação de problemas de desempenho. Existem pontos importantes sobre essa técnica que é importante ser ressaltado:
 
@@ -31,26 +32,39 @@ A seguinte representação demonstra um diagrama básico a respeito da estrutura
 
 <div align="center">
 
+<b>Figura 1: </b> Estrutura básica de diagramação para Análise de Tarefas.
+
 <img width="450" src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/estrutura_hta.png?raw=true"  />
+
+<b>
+fonte:</b>
+ BARBOSA, 2010
 
 </div>
 
 Para o nosso projeto, propôs-se a leitura de duas funcionalidades. A primeira se trata de uma funcionalidade de visualização de calendário, com alterações de tipo de visualização, sistema de busca, de filtragem, e de inscrição em eventos. Além dessa, temos a funcionalidade de Login, onde o usuário possui duas formas de se logar ao sistema e formas de recuperar a senha.
 
-# Diagrama do projeto
+# 3. Diagrama do projeto.
 
 (Imagem diagrama)
 
 <div align="center">
+
+<b>Figura 2: </b> Estrutura criada para diagramar a funcionalidade do calendário.
+
 <img width="450" src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/hta1.png?raw=true" />
 
-(Imagem diagrama 2)
+<b>Fonte: </b> Autoria própria.
+
+<b>Figura 3: </b> Estrutura criada para diagramar a funcionalidade do Login.
 
 <img width="450" src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/hta2.png?raw=true"  />
 
+<b>Fonte: </b> Autoria própria.
+
 </div>
 
-# Passos para se executar uma análise hierárquica de tarefas
+# 4. Passos para se executar uma análise hierárquica de tarefas.
 
 Segundo Diaper (2003), uma Análise Hierárquica de Tarefas consiste nos seguintes passos:
 
@@ -68,3 +82,7 @@ Segundo Diaper (2003), uma Análise Hierárquica de Tarefas consiste nos seguint
 6. Identiﬁcar operações signiﬁcativas, tendo em vista o objetivo da análise.
 7. Gerar e, se possível, testar hipóteses relacionadas aos fatores que afetam oaprendizado e o desempenho. Nessa etapa, pode ser útil utilizar as classiﬁcações de erro humano propostas por Reason (1990): desempenho baseado
    em habilidades, em regras, ou em conhecimento.
+
+# 5. Referencial Bibliográfico utilizado.
+
+- BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
