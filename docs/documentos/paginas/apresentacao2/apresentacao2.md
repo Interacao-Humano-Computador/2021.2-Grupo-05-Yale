@@ -8,5 +8,4 @@
 
 <p>Nesse ponto de controle, foram trabalhados os temas Perfil do usuário, Personas, e Análise de Tarefas </p>
 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/AwVnLYjv2rY">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AwVnLYjv2rY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
