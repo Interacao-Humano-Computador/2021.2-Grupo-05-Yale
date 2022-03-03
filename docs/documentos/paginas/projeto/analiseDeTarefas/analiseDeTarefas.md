@@ -1,9 +1,12 @@
+# <center>Análise de Tarefas
+
 ## Histórico de Versão
 
-| Data       | Versão | Descrição              | Autor(es)     | Revisor(es) |
-| ---------- | ------ | ---------------------- | ------------- | ----------- |
-| 24/02/2022 | 0.1    | Criação do documento   | Pedro, Maicon |             |
-| 26/02/2022 | 0.2    | Melhorias no documento | Pedro, Maicon |             |
+| Data       | Versão | Descrição              | Autor(es)           | Revisor(es) |
+| ---------- | ------ | ---------------------- | ------------------- | ----------- |
+| 24/02/2022 | 0.1    | Criação do documento   | Pedro, Maicon       | ----        |
+| 26/02/2022 | 0.2    | Melhorias no documento | Pedro, Maicon       | ----        |
+| 02/03/2022 | 0.3    | Correções pontuais     | Pedro Helias Carlos | ----        |
 
 <div align="justify">
 

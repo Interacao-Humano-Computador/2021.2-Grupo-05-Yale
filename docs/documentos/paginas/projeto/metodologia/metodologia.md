@@ -4,9 +4,9 @@
 
 |    Data    | Versão |         Descrição          |      Autor(es)      | Revisor(es) |
 | :--------: | :----: | :------------------------: | :-----------------: | :---------: |
-| 19.02.2022 |  0.1   | Revitalização do documento | Pedro Helias Carlos |             |
-| 24.02.2022 |  0.2   | Atualização documento      | Pedro Helias Carlos |             |
-    
+| 19.02.2022 |  0.1   | Revitalização do documento | Pedro Helias Carlos |    ----     |
+| 24.02.2022 |  0.2   |   Atualização documento    | Pedro Helias Carlos |    ----     |
+| 02.02.2022 |  0.3   |     Correções pontuais     | Pedro Helias Carlos |   Maicon   |
 
 <div align="justify">
 
@@ -20,9 +20,15 @@
 
 <div align="center">
 
-<figcaption>Figura 1. Exemplo de Commit</figcaption>
+<b>Figura 1: </b> Exemplo de Commit.
 
 <img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/commit.png?raw=true"  />
+
+<div align="center">
+
+<b>fonte:</b> Própria autoria
+
+</div>
 
 </div>
 
@@ -38,9 +44,11 @@
 
 <div align="center">
 
-<figcaption>Figura 2. Exemplo de branch</figcaption>
+<b>Figura 2: </b> Exemplo de branch
 
 <img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/branch.png?raw=true"  />
+
+<b>fonte:</b> Própria autoria
 
 </div>
 
@@ -52,9 +60,11 @@
 
 <div align="center">
 
-<figcaption>Figura 3. Listas de  Issues criadas no momento da captação dessa imagem</figcaption>
+<b>Figura 3: </b> Listas de Issues criadas no momento da captação dessa imagem
 
 <img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/issues.png?raw=true"  />
+
+<b>fonte:</b> Própria autoria
 
 </div>
 
@@ -62,9 +72,11 @@
 
 <div align="center">
 
-<figcaption>Figura 4. <i>Issue</i> com seus respectivos associados.</figcaption>
+<b>Figura 4: </b> <i>Issue</i> com seus respectivos associados.
 
 <img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/milestone.png?raw=true"  />
+
+<b>fonte:</b> Própria autoria
 
 </div>
 
