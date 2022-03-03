@@ -8,13 +8,138 @@
 
 <div align="justify">
 
-<p>Foi realizada a análise do site https://www.art.yale.edu/ que representa o site da escola de artes da YALE, uma universidade americana.
-Este site possui uma interface totalmente não amigável e com navegação difícil. Por pertencer a um instituto de artes de uma renomada universidade, o website deveria possuir uma qualidade de interação maior, tendo uma navegação mais facilitada e um design mais atraente para os que tentam navegar e descobrir informações importantes sobre a universidade em questão. O site foi escolhido pela equipe por ser um dos com menor qualidade de navegação.
+# 1. Projeto Yale School of Art
 
-- interface totalmente não amigável e com navegação difícil
+<p>Escolhemos o site https://www.art.yale.edu para o nosso projeto, por conta do seu estilo bagunçado e "ultrapassado", no qual abre muito espaço para melhorias, de estilo e navegação, também porquê ele nunca foi escolhido por nenhum outro grupo da matéria, portanto estava disponível. </p>
 
-- tendo uma navegação mais facilitada e um design mais atraente
+<b>Prints da página(tirados no dia 22/02/2022)</b>
 
-- problemas de design não voltado ao minimalismo e excesso de informação não semelhante ao assunto
+## 1.1 Imagens do site utilizado nesse projeto
 
-</p>
+<div align="center">
+
+<b>Figura 1: </b> Tela do site
+
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela1.png?raw=true"  />
+
+<div align="center">
+
+<b>fonte:</b> YALE: https://www.art.yale.edu/
+
+</div>
+
+</div>
+
+<div align="center">
+
+<b>Figura 2: </b> Tela do site
+
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela2.PNG?raw=true"  />
+
+<div align="center">
+
+<b>fonte:</b> YALE: https://www.art.yale.edu/
+
+</div>
+
+</div>
+
+<div align="center">
+
+<b>Figura 3: </b> Tela do site
+
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela3.PNG?raw=true"  />
+
+<div align="center">
+
+<b>fonte:</b> YALE: https://www.art.yale.edu/
+
+</div>
+
+</div>
+
+<div align="center">
+
+<b>Figura 4: </b> Tela do site
+
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela4.PNG?raw=true"  />
+
+<div align="center">
+
+<b>fonte:</b> YALE: https://www.art.yale.edu/
+
+</div>
+
+</div>
+
+<div align="center">
+
+<b>Figura 4: </b> Tela do site
+
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela5.PNG?raw=true"  />
+
+<div align="center">
+
+<b>fonte:</b> YALE: https://www.art.yale.edu/
+
+</div>
+
+</div>
+
+<div align="center">
+
+<b>Figura 6: </b> Tela do site
+
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela6.PNG?raw=true"  />
+
+<div align="center">
+
+<b>fonte:</b> YALE: https://www.art.yale.edu/
+
+</div>
+
+</div>
+
+<div align="center">
+
+<b>Figura 7: </b> Tela do site
+
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela7.PNG?raw=true"  />
+
+<div align="center">
+
+<b>fonte:</b> YALE: https://www.art.yale.edu/
+
+</div>
+
+</div>
+
+<div align="center">
+
+<b>Figura 8: </b> Tela do site
+
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela8.PNG?raw=true"  />
+
+<div align="center">
+
+<b>fonte:</b> YALE: https://www.art.yale.edu/
+
+</div>
+
+</div>
+
+<div align="center">
+
+<b>Figura 9: </b> Tela do site
+
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela9.PNG?raw=true"  />
+
+<div align="center">
+
+<b>fonte:</b> YALE: https://www.art.yale.edu/
+
+</div>
+
+</div>
+
+<div align="center">
