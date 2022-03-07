@@ -24,54 +24,54 @@ O primeiro passo para a compreensão a respeito do usuário é criar um perfil p
 
 # 3. Resultados
 
-<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/1-FaixaEtaria.png?raw=true">
+<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/perfil-usuario/1-FaixaEtaria.png?raw=true">
 <figcaption align='center'>
     <b>Pergunta 1</b>
     <br><small>Fonte: Questionário no google forms</small></br>
 </figcaption>
 
-<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/2-ConheceUniversidade?raw=true">
+<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/perfil-usuario/2-ConheceUniversidade?raw=true">
 <figcaption align='center'>
     <b>Pergunta 2</b>
     <br><small>Fonte: Questionário no google forms</small></br>
 </figcaption>
-<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/3-ConheceInstituto?raw=true">
+<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/perfil-usuario/3-ConheceInstituto?raw=true">
 <figcaption align='center'>
     <b>Pergunta 3</b>
     <br><small>Fonte: Questionário no google forms</small></br>
 </figcaption>
-<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/4-Genero?raw=true">
+<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/perfil-usuario/4-Genero?raw=true">
 <figcaption align='center'>
     <b>Pergunta 4</b>
     <br><small>Fonte: Questionário no google forms</small></br>
 </figcaption>
-<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/5-GrauInstrucao?raw=true">
+<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/perfil-usuario/5-GrauInstrucao?raw=true">
 <figcaption align='center'>
     <b>Pergunta 5</b>
     <br><small>Fonte: Questionário no google forms</small></br>
 </figcaption>
-<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/6-ConhecimentoInfo?raw=true">
+<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/perfil-usuario/6-ConhecimentoInfo?raw=true">
 <figcaption align='center'>
     <b>Pergunta 6</b>
     <br><small>Fonte: Questionário no google forms</small></br>
 </figcaption>
-<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/7-InteresseInstituto?raw=true">
+<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/perfil-usuario/7-InteresseInstituto?raw=true">
 <figcaption align='center'>
     <b>Pergunta 7</b>
     <br><small>Fonte: Questionário no google forms</small></br>
 </figcaption>
 
-<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/9-DesignSite?raw=true">
+<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/perfil-usuario/9-DesignSite?raw=true">
 <figcaption align='center'>
     <b>Pergunta 8</b>
     <br><small>Fonte: Questionário no google forms</small></br>
 </figcaption>
-<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/8-ClickPagina?raw=true">
+<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/perfil-usuario/8-ClickPagina?raw=true">
 <figcaption align='center'>
     <b>Pergunta 9</b>
     <br><small>Fonte: Questionário no google forms</small></br>
 </figcaption>
-<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/10-PrintSite?raw=true">
+<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/perfil-usuario/10-PrintSite?raw=true">
 <figcaption align='center'>
     <b>Página da pergunta 9</b>
     <br><small>Fonte: https://www.art.yale.edu/</small></br>
