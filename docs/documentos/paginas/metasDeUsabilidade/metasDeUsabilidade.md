@@ -2,7 +2,13 @@
 
 Segundo Jakob Nielsen, há seis metas de usabilidade :
 
-<imagem 6 metas>
+<figcaption> </figcaption>
+
+<div align="center">
+<img  height="320" width="480" src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/metasusabi.jpeg?raw=true"  />
+
+</div>
+
 
 * Eficácia;
 * Eficiência;
