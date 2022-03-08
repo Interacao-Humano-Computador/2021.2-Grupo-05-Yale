@@ -20,7 +20,7 @@
 
 <b>Figura 1: </b> Tela do site
 
-<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela1.png?raw=true"  />
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prints-site/tela1.png?raw=true"  />
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 <b>Figura 2: </b> Tela do site
 
-<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela2.PNG?raw=true"  />
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prints-site/tela2.PNG?raw=true"  />
 
 <div align="center">
 
@@ -48,7 +48,7 @@
 
 <b>Figura 3: </b> Tela do site
 
-<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela3.PNG?raw=true"  />
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prints-site/tela3.PNG?raw=true"  />
 
 <div align="center">
 
@@ -62,7 +62,7 @@
 
 <b>Figura 4: </b> Tela do site
 
-<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela4.PNG?raw=true"  />
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prints-site/tela4.PNG?raw=true"  />
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 <b>Figura 4: </b> Tela do site
 
-<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela5.PNG?raw=true"  />
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prints-site/tela5.PNG?raw=true"  />
 
 <div align="center">
 
@@ -90,7 +90,7 @@
 
 <b>Figura 6: </b> Tela do site
 
-<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela6.PNG?raw=true"  />
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prints-site/tela6.PNG?raw=true"  />
 
 <div align="center">
 
@@ -104,7 +104,7 @@
 
 <b>Figura 7: </b> Tela do site
 
-<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela7.PNG?raw=true"  />
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prints-site/tela7.PNG?raw=true"  />
 
 <div align="center">
 
@@ -118,7 +118,7 @@
 
 <b>Figura 8: </b> Tela do site
 
-<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela8.PNG?raw=true"  />
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prints-site/tela8.PNG?raw=true"  />
 
 <div align="center">
 
@@ -132,7 +132,7 @@
 
 <b>Figura 9: </b> Tela do site
 
-<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/tela9.PNG?raw=true"  />
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prints-site/tela9.PNG?raw=true"  />
 
 <div align="center">
 
