@@ -50,14 +50,20 @@ Para o nosso projeto, propôs-se a leitura de duas funcionalidades. A primeira s
 
    <img width="450" src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/hta1.png?raw=true" />
    
-   <b>Fonte: </b> Autoria própria.
+   <div>
+      <div align="center">
+      <b>Fonte: </b> Autoria própria.
+   </div>
 
 <b>Figura 3: </b> Estrutura criada para diagramar a funcionalidade do Login.
 
    <img width="450" src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/hta2.png?raw=true"  />
    
-   <b>Fonte: </b> Autoria própria.
-   
+   <div>
+      <div align="center">
+      <b>Fonte: </b> Autoria própria.
+   </div>
+
 </div>
 
 # 4. Passos para se executar uma análise hierárquica de tarefas.
