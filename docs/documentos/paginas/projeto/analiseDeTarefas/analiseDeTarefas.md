@@ -8,6 +8,7 @@
 | 26/02/2022 | 0.2    | Melhorias no documento               | Pedro, Maicon       | ----         |
 | 02/03/2022 | 0.3    | Correções pontuais                   | Pedro Helias Carlos | Luiz Gustavo |
 | 08/03/2022 | 0.4    | Correções na diagramação das imagens | Pedro Helias Carlos |              |
+| 08/03/2022 | 0.5    | Atualização do documento             | Pedro Helias Carlos |              |
 
 <div align="justify">
  
@@ -84,9 +85,12 @@ Segundo Diaper (2003), uma Análise Hierárquica de Tarefas consiste nos seguint
 5. Veriﬁcar a validade da decomposição junto às partes interessadas, visando
    assegurar a conﬁabilidade da análise.
 6. Identiﬁcar operações signiﬁcativas, tendo em vista o objetivo da análise.
-7. Gerar e, se possível, testar hipóteses relacionadas aos fatores que afetam oaprendizado e o desempenho. Nessa etapa, pode ser útil utilizar as classiﬁcações de erro humano propostas por Reason (1990): desempenho baseado
-   em habilidades, em regras, ou em conhecimento.
+7. Gerar e, se possível, testar hipóteses relacionadas aos fatores que afetam o aprendizado e o desempenho. Nessa etapa, pode ser útil utilizar as classiﬁcações de erro humano propostas por Reason (1990): desempenho baseado em habilidades, em regras, ou em conhecimento.
 
-# 5. Referencial bibliográfico utilizado.
+# 5. Conclusão
+
+A partir do conteúdo desenvolvido nesse tópico, verifica-se que há maiores aplicações do método da AHT, pois é um método que busca entender os princípios por trás de tarefas não muito complexas e pouco repetitivas, atingindo diretamente o proposto pelo site em estudo, primeiro pelo fato que as atividades não são rotineiras, o que as caracteriza como não repetitivas. Serviços semelhantes a associar eventos ao calendário pessoal não é muito comum e constantemente repetida pelo usuário.
+
+# 6. Referencial bibliográfico utilizado.
 
 - BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
