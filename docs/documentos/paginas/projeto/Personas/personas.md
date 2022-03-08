@@ -2,12 +2,12 @@
 
 ## Histórico de Versão
 
-| Data       | Versão | Descrição                | Autor(es)                | Revisor(es)         |
-| ---------- | ------ | ------------------------ | ------------------------ | ------------------- |
-| 24/02/2022 | 0.1    | Criação do documento     | Ana Júlia                | ----                |
-| 24/02/2022 | 0.2    | Atualização do documento | Ana Júlia e Luiz Gustavo | Pedro Helias Carlos |
-| 05/03/2022 | 0.3    | Incremento das personas  | Luiz Gustavo             | ----                |
-| 08/03/2022 | 0.4    | Atualização do documento | Pedro Helias Carlos      |                     |
+| Data       | Versão | Descrição                          | Autor(es)                | Revisor(es)         |
+| ---------- | ------ | ---------------------------------- | ------------------------ | ------------------- |
+| 24/02/2022 | 0.1    | Criação do documento               | Ana Júlia                | ----                |
+| 24/02/2022 | 0.2    | Atualização do documento           | Ana Júlia e Luiz Gustavo | Pedro Helias Carlos |
+| 05/03/2022 | 0.3    | Incremento das personas            | Luiz Gustavo             | ----                |
+| 08/03/2022 | 0.4    | Atualização no tamanho das imagens | Pedro Helias Carlos      |                     |
 
 <div align="justify">
 
