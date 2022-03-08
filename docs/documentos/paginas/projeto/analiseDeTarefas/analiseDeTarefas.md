@@ -53,6 +53,7 @@ Para o nosso projeto, propôs-se a leitura de duas funcionalidades. A primeira s
    <div>
       <div align="center">
       <b>Fonte: </b> Autoria própria.
+      </div>
    </div>
 
 <b>Figura 3: </b> Estrutura criada para diagramar a funcionalidade do Login.
@@ -62,6 +63,7 @@ Para o nosso projeto, propôs-se a leitura de duas funcionalidades. A primeira s
    <div>
       <div align="center">
       <b>Fonte: </b> Autoria própria.
+      </div>
    </div>
 
 </div>
