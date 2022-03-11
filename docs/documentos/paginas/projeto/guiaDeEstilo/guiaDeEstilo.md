@@ -120,8 +120,6 @@ Propomos uma reestruturação por completo do site, dado que as informações da
 </td>
 </tr></table>
 
-(FOTO DO ATUAL E FOTO DO PROPOSTO)
-
 ## 3.2 Janelas
 
 As Janelas sofrem do mesmo problema da Home, estão dispostas de forma aleatória sem nenhuma padronização de projeto. Sobre esse ponto, propõe estruturas semelhantes a do tópico 3.1, com a diferença de uma clara sinalização sobre qual janela o usuário está.
@@ -130,7 +128,23 @@ As Janelas sofrem do mesmo problema da Home, estão dispostas de forma aleatóri
 
 A partir da análise do site em estudo por meio das Ferramentas de Desenvoledor(mais conhecido como a janela acessada com o comando F12), identificou-se que a fonte padrão é da família Ubuntu, nos padrões 300, 400, 700 e 800, sem serifa. Seguido os padrões da Universidade Yale, será utilizada a fonte da família Mallory, com serifa, presente em boa parte do site.
 
-(FOTO DO ATUAL x FOTO DAS FONTES)
+<table><tr>
+<td>
+<br>
+<em style="color: grey">Site proposto</em>
+<br> 
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/fotos-guiaDeEstilo/fonte_yale.png?raw=true" alt="Drawing" style="width: 500px;"/> 
+<br>
+<em style="color: grey">Site atual</em>
+</td>
+<td> <br>
+<em style="color: grey">Site proposto</em>
+<br>
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/fotos-guiaDeEstilo/fonte_yale_oficial.png?raw=true" alt="Drawing" style="width: 500px;"/>
+<br>
+<em style="color: grey">Site proposto</em>
+</td>
+</tr></table>
 
 ## 3.4 Símbolos não tipográficos
 
@@ -138,7 +152,7 @@ A partir da análise do site em estudo por meio das Ferramentas de Desenvoledor(
 
 O presente site não possui um certo padrão de cores, partindo do ponto de inspiração do designer. Mesmo tentando identificar padrões de cores complementares, cores quentes ou frias, não chegou em conclusão alguma. Então, para condizer com a padronização da Universidade de Yale, opta-se por utilizar a paleta de cores definidas pela universidade.
 
-(PALETA DE CORES DA YALE)
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/fotos-guiaDeEstilo/paleta_cores.png?raw=true"/>
 
 ## 3.6 Animações
 
@@ -186,6 +200,6 @@ Haverá avisos e informativos a respeito de ações errôneas e equivocadas que 
 
 # Referências.
 
-MARCUS
-BARBOSA
-MAYHEW
+- BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
+
+- MAYHEW, D. The usability engineering lifecycle. [S.l.], 1999.
