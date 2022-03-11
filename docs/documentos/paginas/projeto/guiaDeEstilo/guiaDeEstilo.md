@@ -152,7 +152,8 @@ A partir da análise do site em estudo por meio das Ferramentas de Desenvoledor(
 
 O presente site não possui um certo padrão de cores, partindo do ponto de inspiração do designer. Mesmo tentando identificar padrões de cores complementares, cores quentes ou frias, não chegou em conclusão alguma. Então, para condizer com a padronização da Universidade de Yale, opta-se por utilizar a paleta de cores definidas pela universidade.
 
-<center>
+<div align="center">
+
  <div>
       <div align="center">
       <b>Fonte: </b> Autoria própria.
@@ -166,7 +167,7 @@ O presente site não possui um certo padrão de cores, partindo do ponto de insp
       <b>Fonte: </b> Autoria própria.
       </div>
    </div>
-</center>
+</div>
 
 ## 3.6 Animações
 
