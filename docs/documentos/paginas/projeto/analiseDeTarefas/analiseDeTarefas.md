@@ -14,6 +14,7 @@
 <div align="justify">
  
 # 1. Introdução.
+
 Análise de Tarefas consiste em procedimentos para entender qual é o trabalho dos usuários, como esse trabalho é realizado e a motivação por trás, o porquê desse trabalho. Quando se define trabalho, realiza-se menção direta aos objetivos do usuário quanto ao sistemas - quais objetivos o usuário almeja atingir. O que se busca com essa análise, e até se define como característica crucial, é entender e definir o que seria o "Desempenho satisfatório" do sistema. É entender como o sistema de trabalho afeta o domínio da aplicação, e vice-versa.
 Especificamente, a análise de tarefas é utilizada em 3 atividades: Quando se procura realizar análise de situação atual; quando se procura determinar o redesign do sistema; e, por fim, quando se busca realizar a avaliação d resultado de uma intervenção que inclua a introdução de um novo sistema computacional.
 Dentre os métodos para avaliar a Análise de Tarefas, temos a Análise Hierárquica de Tarefas.
