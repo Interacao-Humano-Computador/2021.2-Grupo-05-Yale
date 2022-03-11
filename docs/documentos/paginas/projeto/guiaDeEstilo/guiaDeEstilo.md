@@ -182,7 +182,7 @@ Seguindo a figura 2, que representa a estruturação do protótipo proposto, uma
       </div>
    </div>
 
-<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/fotos-guiaDeEstilo/esqueleto2.png?raw=true" style="width: 500px;"/>
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/fotos-guiaDeEstilo/esqueleo2.png?raw=true" style="width: 500px;"/>
 
  <div>
       <div align="center">
