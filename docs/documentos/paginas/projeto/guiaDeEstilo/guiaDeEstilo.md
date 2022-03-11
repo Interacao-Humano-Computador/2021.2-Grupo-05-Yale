@@ -2,9 +2,10 @@
 
 ## Histórico de Versão
 
-| Data       | Versão | Descrição            | Autor(es)     | Revisor(es) |
-| ---------- | ------ | -------------------- | ------------- | ----------- |
-| 11/03/2022 | 0.1    | Criação do documento | Pedro, Maicon | ----        |
+| Data       | Versão | Descrição                | Autor(es)     | Revisor(es) |
+| ---------- | ------ | ------------------------ | ------------- | ----------- |
+| 11/03/2022 | 0.1    | Criação do documento     | Pedro, Maicon | ----        |
+| 11/03/2022 | 0.2    | Finalização do documento | Pedro, Maicon | ----        |
 
 <div align="justify">
 
