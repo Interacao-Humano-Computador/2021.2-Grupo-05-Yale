@@ -216,6 +216,34 @@ Por se tratar de um site acadêmico de informação, publicação de obras e eve
 
 ## 6.2. Tipos de tela (para tarefas comuns).
 
+Todas as telas listadas abaixo representam o que pretende-se construir a nível de protótipo de alta fidelidade. Com relação ao protótipo de média e baixa fidelidade, juntamente, contarão com as telas e esboços que definirmos como pertinente e aplicável ao projeto.
+
+<ul>
+    <li>Tela Inicial: <i>Home</i> do site com disposições gerais</li>
+    <li>Tela "Sobre a Instituição"</li>
+    <li>Tela "Aplique-se ao instituto"</li>
+        <ul>
+            <li>Tela "Admissão em graduação"</li>
+            <li>Tela "Financiando sua educação"</li>
+            <li>Tela "Áreas de estudos"</li>
+            <li>Tela "Cursos"</li>
+            <li>Tela "Moradia"</li>
+            <li>Tela "Documentação"</li>
+        </ul>
+    <li>Tela "Exibições"</li>
+        <ul>
+            <li>Tela "Arquivo de exibições"</li>
+        </ul>
+    <li>Tela "Publicações"</li>
+    <li>Tela "Notícias"</li>
+        <ul>
+            <li>Tela "Arquivos de Eventos"</li>
+            <li>Tela "Escola de Artes Yale pelo Mundo"</li>
+            <li>Tela "Arquivos de Notícias"</li>
+        </ul>
+    <li>Tela "Eventos Públicos"</li>
+</ul>
+
 ## 6.3. Sequências de diálogos (e.g., para feedback ou conﬁrmação de uma operação).
 
 Haverá avisos e informativos a respeito de ações errôneas e equivocadas que o usuário posteriomente possa cometer. Uma das formas a realizar esses avisos será por meio de Modals, conhecidos como Pop-up.
