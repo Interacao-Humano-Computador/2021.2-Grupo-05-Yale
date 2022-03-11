@@ -21,3 +21,4 @@
 
   - [Ponto de Controle 1](documentos/paginas/apresentacoes/aprensentacao1/apresentacao1.md)
   - [Ponto de Controle 2](documentos/paginas/apresentacao2/apresentacao2.md)
+  - [Ponto de Controle 3](documentos/paginas/apresentacao3/apresentacao3.md)
