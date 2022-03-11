@@ -104,18 +104,20 @@ Propomos uma reestruturação por completo do site, dado que as informações da
 
 <table><tr>
 <td>
- <br>
- <em style="color: grey"><center>Site proposto</center></em> 
+<br>
+<em style="color: grey">Site proposto</em>
+<br> 
 <img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prints-site/tela1.png?raw=true" alt="Drawing" style="width: 500px;"/> 
 <br>
-<em style="color: grey"><center>Site atual</center></em>
+<em style="color: grey">Site atual</em>
 </td>
 <td> <br>
- <em style="color: grey"><center>Site proposto</center></em>
+<em style="color: grey">Site proposto</em>
+<br>
 <img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/hta2.png?raw=true" alt="Drawing" style="width: 500px;"/>
 <br>
- <em style="color: grey"><center>Site proposto</center></em>
- </td>
+<em style="color: grey">Site proposto</em>
+</td>
 </tr></table>
 
 (FOTO DO ATUAL E FOTO DO PROPOSTO)
