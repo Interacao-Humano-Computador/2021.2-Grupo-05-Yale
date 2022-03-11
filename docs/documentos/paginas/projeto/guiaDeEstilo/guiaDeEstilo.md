@@ -127,6 +127,8 @@ Propomos uma reestruturação por completo do site, dado que as informações da
 
 Como proposta de resultado final, propõe algo voltado para o estilo abaixo. Foi respeitada a paleta de cores do Manual da Marca da Yale. É importante citar que todas estruturas realizadas aqui podem sofrer mudanças.
 
+<br>
+
 <div align="center">
 
  <div>
@@ -135,7 +137,7 @@ Como proposta de resultado final, propõe algo voltado para o estilo abaixo. Foi
       </div>
    </div>
 
-<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/fotos-guiaDeEstilo/home1.png?raw=true"/>
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/fotos-guiaDeEstilo/home1.png?raw=true" style="width: 500px;"/>
 
  <div>
       <div align="center">
@@ -144,7 +146,7 @@ Como proposta de resultado final, propõe algo voltado para o estilo abaixo. Foi
    </div>
 </div>
 
-
+<br>
 
 <div align="center">
 
@@ -154,7 +156,7 @@ Como proposta de resultado final, propõe algo voltado para o estilo abaixo. Foi
       </div>
    </div>
 
-<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/fotos-guiaDeEstilo/home2.png?raw=true"/>
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/fotos-guiaDeEstilo/home2.png?raw=true" style="width: 500px;"/>
 
  <div>
       <div align="center">
@@ -163,11 +165,30 @@ Como proposta de resultado final, propõe algo voltado para o estilo abaixo. Foi
    </div>
 </div>
 
-
-
 ## 3.2 Janelas
 
 As Janelas sofrem do mesmo problema da Home, estão dispostas de forma aleatória sem nenhuma padronização de projeto. Sobre esse ponto, propõe estruturas semelhantes a do tópico 3.1, com a diferença de uma clara sinalização sobre qual janela o usuário está.
+
+Seguindo a figura 2, que representa a estruturação do protótipo proposto, uma página normal com conteúdo diferente da home, como mostrado abaixo. Projeta-se um menu lateral orientado à horizantal, caso ocorra a necessidade de exibir página dentro de páginas.
+
+<br>
+
+<div align="center">
+
+ <div>
+      <div align="center">
+      <b>Figura 4: </b> Segunda estrutura da Home (seguindo a paginação) estilizada conforme as especificações e projeções futuras.
+      </div>
+   </div>
+
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/fotos-guiaDeEstilo/esqueleto2.png?raw=true" style="width: 500px;"/>
+
+ <div>
+      <div align="center">
+      <b>Fonte: </b> Própria Autoria.
+      </div>
+   </div>
+</div>
 
 ## 3.3 Tipografia
 
@@ -175,7 +196,7 @@ A partir da análise do site em estudo por meio das Ferramentas de Desenvoledor(
 
    <div>
       <div align="center">
-      <b>Figuras 3 e 4: </b> Tipografias - Original(esquerda) x Proposta(direita).
+      <b>Figuras 5 e 6: </b> Tipografias - Original(esquerda) x Proposta(direita).
       </div>
    </div>
 
@@ -197,6 +218,29 @@ A partir da análise do site em estudo por meio das Ferramentas de Desenvoledor(
 
 ## 3.4 Símbolos não tipográficos
 
+Os símbolost tipográficos serão obtidos em sites que os disponibilizam gratuitamente. Vale ressaltar que nem todos listados abaixo serão utilizados.
+
+<br>
+
+<div align="center">
+
+ <div>
+      <div align="center">
+      <b>Figura 7: </b> Ícones para páginas web
+      </div>
+   </div>
+
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/fotos-guiaDeEstilo/icones.png?raw=true"/>
+
+ <div>
+      <div align="center">
+      <b>Fonte: </b> Retirado do site www.flaticon.com.
+      </div>
+   </div>
+</div>
+
+<br>
+
 ## 3.5 Cores
 
 O presente site não possui um certo padrão de cores, partindo do ponto de inspiração do designer. Mesmo tentando identificar padrões de cores complementares, cores quentes ou frias, não chegou em conclusão alguma. Então, para condizer com a padronização da Universidade de Yale, opta-se por utilizar a paleta de cores definidas pela universidade.
@@ -205,7 +249,7 @@ O presente site não possui um certo padrão de cores, partindo do ponto de insp
 
  <div>
       <div align="center">
-      <b>Figura 5: </b> Paleta de Cores a ser utilizada.
+      <b>Figura 8: </b> Paleta de Cores a ser utilizada.
       </div>
    </div>
 
@@ -295,3 +339,7 @@ Haverá avisos e informativos a respeito de ações errôneas e equivocadas que 
 - BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
 
 - MAYHEW, D. The usability engineering lifecycle. [S.l.], 1999.
+
+- A página virtual https://pixnio.com/pt onde foram obtidas as imagens de fundo para as Landing Pages criadas. Vale ressaltar que se tratam de imagens de livre uso.
+
+- A página virtual https://www.flaticon.com/br onde foram obtidos os ícones a serem utilizados no projeto.
