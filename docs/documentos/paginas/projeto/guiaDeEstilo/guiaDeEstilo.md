@@ -102,11 +102,20 @@ Neste ambiente, por se tratar de uma plataforma de informação voltada para o p
 
 Propomos uma reestruturação por completo do site, dado que as informações da home estão dispostas sem métricas específicas. Então, foi desenvolvida a seguinte esturura relacionada a home do projeto:
 
-docs/documentos/imagens/prints-site/tela1.png
-
 <table><tr>
-<td> <img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prints-site/tela1.png?raw=true" alt="Drawing" style="width: 500px;"/> </td>
-<td> <img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/hta2.png?raw=true" alt="Drawing" style="width: 500px;"/> </td>
+<td>
+ <br>
+ <em style="color: grey"><center>Site proposto</center></em> 
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prints-site/tela1.png?raw=true" alt="Drawing" style="width: 500px;"/> 
+<br>
+<em style="color: grey"><center>Site atual</center></em>
+</td>
+<td> <br>
+ <em style="color: grey"><center>Site proposto</center></em>
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/hta2.png?raw=true" alt="Drawing" style="width: 500px;"/>
+<br>
+ <em style="color: grey"><center>Site proposto</center></em>
+ </td>
 </tr></table>
 
 (FOTO DO ATUAL E FOTO DO PROPOSTO)
