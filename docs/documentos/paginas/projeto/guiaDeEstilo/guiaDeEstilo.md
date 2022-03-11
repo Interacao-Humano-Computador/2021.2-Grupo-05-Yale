@@ -113,7 +113,7 @@ Propomos uma reestruturação por completo do site, dado que as informações da
 <img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prints-site/tela1.png?raw=true" alt="Drawing" style="width: 500px;"/> 
 </td>
 <td> 
-<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/hta2.png?raw=true" alt="Drawing" style="width: 500px;"/>
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/fotos-guiaDeEstilo/esqueleto.png?raw=true" alt="Drawing" style="width: 500px;"/>
 </td>
 </tr></table>
 
@@ -122,6 +122,48 @@ Propomos uma reestruturação por completo do site, dado que as informações da
       <b>Fonte: </b> Instituto de Artes da Universidade Yale (esquerda) e Autoria própria (direita).
       </div>
    </div>
+
+<br>
+
+Como proposta de resultado final, propõe algo voltado para o estilo abaixo. Foi respeitada a paleta de cores do Manual da Marca da Yale. É importante citar que todas estruturas realizadas aqui podem sofrer mudanças.
+
+<div align="center">
+
+ <div>
+      <div align="center">
+      <b>Figura 3: </b> Home estilizada conforme as especificações e projeções futuras.
+      </div>
+   </div>
+
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/fotos-guiaDeEstilo/home1.png?raw=true"/>
+
+ <div>
+      <div align="center">
+      <b>Fonte: </b> Própria Autoria.
+      </div>
+   </div>
+</div>
+
+
+
+<div align="center">
+
+ <div>
+      <div align="center">
+      <b>Figura 4: </b> Segunda estrutura da Home (seguindo a paginação) estilizada conforme as especificações e projeções futuras.
+      </div>
+   </div>
+
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/fotos-guiaDeEstilo/home2.png?raw=true"/>
+
+ <div>
+      <div align="center">
+      <b>Fonte: </b> Própria Autoria.
+      </div>
+   </div>
+</div>
+
+
 
 ## 3.2 Janelas
 
