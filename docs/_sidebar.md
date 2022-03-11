@@ -13,6 +13,8 @@
   - [Personas](documentos/paginas/projeto/Personas/personas.md)
   - [Análise de Tarefas](documentos/paginas/projeto/analiseDeTarefas/analiseDeTarefas.md)
   - [Perfil do Usuário](documentos/paginas/projeto/PerfildeUsuario/perfilDeUsuario.md.md)
+  - [Principios Gerais](documentos/paginas/projeto/principiosGerais/principiosGerais.md)
+  - [Metas de Usabilidade](documentos/paginas/metasDeUsabilidade/metasDeUsabilidade.md)
 
 - **Apresentações**
 
