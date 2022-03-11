@@ -102,23 +102,26 @@ Neste ambiente, por se tratar de uma plataforma de informação voltada para o p
 
 Propomos uma reestruturação por completo do site, dado que as informações da home estão dispostas sem métricas específicas. Então, foi desenvolvida a seguinte esturura relacionada a home do projeto:
 
+   <div>
+      <div align="center">
+      <b>Figuras 1 e 2: </b> Representação dos Sites - Original (esquerda) x Proposta (direita).
+      </div>
+   </div>
+
 <table><tr>
 <td>
-<br>
-<em style="color: grey">Site proposto</em>
-<br> 
 <img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prints-site/tela1.png?raw=true" alt="Drawing" style="width: 500px;"/> 
-<br>
-<em style="color: grey">Site atual</em>
 </td>
-<td> <br>
-<em style="color: grey">Site proposto</em>
-<br>
+<td> 
 <img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/hta2.png?raw=true" alt="Drawing" style="width: 500px;"/>
-<br>
-<em style="color: grey">Site proposto</em>
 </td>
 </tr></table>
+
+   <div>
+      <div align="center">
+      <b>Fonte: </b> Instituto de Artes da Universidade Yale (esquerda) e Autoria própria (direita).
+      </div>
+   </div>
 
 ## 3.2 Janelas
 
@@ -128,23 +131,27 @@ As Janelas sofrem do mesmo problema da Home, estão dispostas de forma aleatóri
 
 A partir da análise do site em estudo por meio das Ferramentas de Desenvoledor(mais conhecido como a janela acessada com o comando F12), identificou-se que a fonte padrão é da família Ubuntu, nos padrões 300, 400, 700 e 800, sem serifa. Seguido os padrões da Universidade Yale, será utilizada a fonte da família Mallory, com serifa, presente em boa parte do site.
 
+   <div>
+      <div align="center">
+      <b>Figuras 3 e 4: </b> Tipografias - Original(esquerda) x Proposta(direita).
+      </div>
+   </div>
+
 <table><tr>
 <td>
-<br>
-<em style="color: grey">Site proposto</em>
-<br> 
 <img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/fotos-guiaDeEstilo/fonte_yale.png?raw=true" alt="Drawing" style="width: 500px;"/> 
-<br>
-<em style="color: grey">Site atual</em>
 </td>
-<td> <br>
-<em style="color: grey">Site proposto</em>
-<br>
+<td> 
 <img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/fotos-guiaDeEstilo/fonte_yale_oficial.png?raw=true" alt="Drawing" style="width: 500px;"/>
-<br>
-<em style="color: grey">Site proposto</em>
+
 </td>
 </tr></table>
+
+   <div>
+      <div align="center">
+      <b>Fonte: </b> Fontes do Google (esquerda) e Manual da marca da Universidade Yale (direita)
+      </div>
+   </div>
 
 ## 3.4 Símbolos não tipográficos
 
@@ -156,7 +163,7 @@ O presente site não possui um certo padrão de cores, partindo do ponto de insp
 
  <div>
       <div align="center">
-      <b>Fonte: </b> Autoria própria.
+      <b>Figura 5: </b> Paleta de Cores a ser utilizada.
       </div>
    </div>
 
@@ -164,7 +171,7 @@ O presente site não possui um certo padrão de cores, partindo do ponto de insp
 
  <div>
       <div align="center">
-      <b>Fonte: </b> Autoria própria.
+      <b>Fonte: </b> Retirado do Manual da Marca da Universidade Yale.
       </div>
    </div>
 </div>
