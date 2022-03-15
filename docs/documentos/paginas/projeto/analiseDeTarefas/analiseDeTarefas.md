@@ -130,6 +130,6 @@ Pode ser usado no exemplo da ferramenta MOVER, O texto é movido através do uso
 
 A partir do conteúdo desenvolvido neste tópico, verifica-se que há maiores aplicações para os métodos AHT e GOMS, onde AHT é um método que busca entender os princípios por trás de tarefas não muito complexas e pouco repetitivas, atingindo diretamente o proposto pelo site em estudo, primeiro pelo fato que as atividades não são rotineiras, o que as caracteriza como não repetitivas. Serviços semelhantes a associar eventos ao calendário pessoal não é muito comum e constantemente repetida pelo usuário e o Modelo GOMS que pode ser bastante dividido onde usuários novatos utilizarão o sistema, busca os procedimentos necessários para que seja possível de se concluir uma determinada tarefa, busca artefatos dos sistemas perceptivo, cognitivo e motor, sendo fundamentais para que se atinja a meta, faz com que os usuários mais experientes que utilizarão o sistema irão dar treinamento para os novatos, e busca também as estruturas de monitoramento e controle utilizadas no processo como um todo, fazendo com que seja um método prático.
 
-# 6. Referencial bibliográfico utilizado.
+# 7. Referencial bibliográfico utilizado.
 
 - BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
