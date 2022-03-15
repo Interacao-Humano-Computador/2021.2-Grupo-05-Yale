@@ -1,7 +1,7 @@
 # <center>Análise de Tarefas
- 
+
 ## Histórico de Versão
- 
+
 | Data       | Versão | Descrição                            | Autor(es)                | Revisor(es)  |
 | ---------- | ------ | ------------------------------------ | ------------------------ | ------------ |
 | 24/02/2022 | 0.1    | Criação do documento                 | Pedro, Maicon            | ----         |
@@ -10,18 +10,19 @@
 | 08/03/2022 | 0.4    | Correções na diagramação das imagens | Pedro Helias Carlos      | ----         |
 | 08/03/2022 | 0.5    | Atualização do documento             | Pedro Helias Carlos      | ----         |
 | 08/03/2022 | 0.6    | Adição do Método GOMS.               | Maicon Rodrigues Queiroz | Luiz Gustavo |
- 
+
 <div align="justify">
+
 # 1. Introdução.
- 
+
 Análise de Tarefas consiste em procedimentos para entender qual é o trabalho dos usuários, como esse trabalho é realizado e a motivação por trás, o porquê desse trabalho. Quando se define trabalho, realiza-se menção direta aos objetivos do usuário quanto ao sistemas - quais objetivos o usuário almeja atingir. O que se busca com essa análise, e até se define como característica crucial, é entender e definir o que seria o "Desempenho satisfatório" do sistema. É entender como o sistema de trabalho afeta o domínio da aplicação, e vice-versa.
 Especificamente, a análise de tarefas é utilizada em 3 atividades: Quando se procura realizar análise de situação atual; quando se procura determinar o redesign do sistema; e, por fim, quando se busca realizar a avaliação d resultado de uma intervenção que inclua a introdução de um novo sistema computacional.
 Dentre os métodos para avaliar a Análise de Tarefas, temos a Análise Hierárquica de Tarefas.
- 
+
 # 2. Análise Hierárquica de Tarefas(AHT).
- 
+
 Esse método foi desenvolvido para entender as competências e habilidades exibidas em tarefas complexas e não repetitivas - por exemplo serviços de compra, login, adição de atividades em calendário, entre outros. Além disso, essa técnica detecta o comportamento e direcionamento de um site/sistema, e assim auxiliar na identificação de problemas de desempenho. Existem pontos importantes sobre essa técnica que é importante ser ressaltado:
- 
+
 - Tarefa: Qualquer parte do trabalho que precisa ser realizada. As tarefas podem ser definidas em termos dos seus objetivos. Tarefas mais complexas possuem sub-objetivos.
 - Objetivo: Um estado final das coisas, aquilo que se busca, almeja atingir. Os objetivos compõem boa parte das tarefas. Utilizando a Técnica de AHT, identifica-se primeiramente os objetivos de alto nível, decompondo-se em sub-objetivos.
 - Plano: O Plano representa os sub-objetivos oriundos de um objetivo de alto nível. Ele define não só os sub-objetivos necessários para alcançar um outro objetivo maior, mas como a ordem que esses sub-objetivos devem ser alcançados para realizar um processo maior.
@@ -29,8 +30,8 @@ Esse método foi desenvolvido para entender as competências e habilidades exibi
 - Ação: Pode ser entendida como uma instrução para executar algo.
 - Input: Pode ser entendido como os estados atribuídos ao sistema.
 - feedback: Pode ser entendido como o retorno dos testes, o estado final.
- A seguinte representação demonstra um diagrama básico a respeito da estrutura da AHT.
- 
+  A seguinte representação demonstra um diagrama básico a respeito da estrutura da AHT.
+
 <div align="center">
  
 <b>Figura 1: </b> Estrutura básica de diagramação para Análise de Tarefas.
@@ -123,13 +124,13 @@ Com base na premissa de que “os usuários agem racionalmente para conseguirem 
  
 Operadores podem mudar um estado mental interno do usuário ou um estado do ambiente externo. Tempo de execução é um parâmetro importante dos operadores. Assim, a interação com o mundo físico aparece definida por um efeito específico e por uma duração específica. São operadores: mover o mouse, clicar no botão do mouse, shift-clicar no botão do mouse e pressionar a tecla delete. Operadores definem a granularidade da análise. Englobam uma mistura de mecanismos psicológicos básicos e comportamento organizado aprendido. Quanto mais fina a granularidade da análise, mais os operadores refletem os mecanismos psicológicos básicos.
 Métodos são procedimentos já aprendidos; não são planos criados durante a realização da tarefa. Constituem a expressão da familiaridade e habilidade do usuário. Refletem a estrutura detalhada da tarefa no ambiente e o conhecimento da sequência exata de passos requeridos pela ferramenta para a realização da tarefa. No exemplo citado, um método para a meta deletar-se seria: mover mouse para o início da frase, pressionar botão do mouse, mover mouse para o final da frase, soltar botão do mouse, pressionar tecla Del (método marca e deletar).A estrutura de controle no GOMS é a seleção. A essência do comportamento habilidoso pressupõe que as seleções acontecem suavemente, sem a problemática da busca que caracteriza comportamento de resolução de problemas. No exemplo o usuário poderia ter selecionado como método o posicionar o mouse no início da frase e pressionar o delete tantas vezes quantas for o número de caracteres da frase a deletar (método deletar caracteres). Seleção de métodos pelo usuário pode se dar pela experiência na tarefa ou por treinamento. O usuário poderia ter uma regra para o deletar-frase como a seguinte: se a frase tem mais de oito caracteres, usar método marca e deleta; caso contrário, usar método deletar caracteres. Associando-se tempo a cada operador, tal modelo fornecerá previsão de tempo total para realização da tarefa. O modelo não é apropriado se erros ocorrem, uma vez que a detecção e correção de erros são rotineiras em comportamento habilidoso.
- 
+
 Pode ser usado no exemplo da ferramenta MOVER, O texto é movido através do uso do cut e pastel. Para tal, o texto é primeiramente selecionado e então o cut é acionado. A seleção do texto pode ser feita de duas maneiras dependendo do tamanho do texto a ser selecionado. A meta pastel requer posicionar o cursor no ponto de inserção e então acionar o paste.
- 
+
 # 6. Conclusão
- 
+
 A partir do conteúdo desenvolvido neste tópico, verifica-se que há maiores aplicações para os métodos AHT e GOMS, onde AHT é um método que busca entender os princípios por trás de tarefas não muito complexas e pouco repetitivas, atingindo diretamente o proposto pelo site em estudo, primeiro pelo fato que as atividades não são rotineiras, o que as caracteriza como não repetitivas. Serviços semelhantes a associar eventos ao calendário pessoal não é muito comum e constantemente repetida pelo usuário e o Modelo GOMS que pode ser bastante dividido onde usuários novatos utilizarão o sistema, busca os procedimentos necessários para que seja possível de se concluir uma determinada tarefa, busca artefatos dos sistemas perceptivo, cognitivo e motor, sendo fundamentais para que se atinja a meta, faz com que os usuários mais experientes que utilizarão o sistema irão dar treinamento para os novatos, e busca também as estruturas de monitoramento e controle utilizadas no processo como um todo, fazendo com que seja um método prático.
- 
+
 # 6. Referencial bibliográfico utilizado.
- 
+
 - BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
