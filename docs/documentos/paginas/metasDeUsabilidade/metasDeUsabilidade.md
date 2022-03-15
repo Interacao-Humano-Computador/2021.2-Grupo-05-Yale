@@ -1,15 +1,20 @@
 # <center>Metas de usabilidade
 
-| Data       | Versão | Descrição            | Autor(es)                          | Revisor(es)                        |
-| ---------- | ------ | -------------------- | ---------------------------------- | ---------------------------------- |
-| 08/03/2022 | 0.1    | Criação do documento | Carlos Daniel Godoy<br>Lucas Ramon | **\_\_**                           |
-| 12/03/2022 | 0.2    | Revisão do documento | Carlos Daniel Godoy<br>Lucas Ramon | Carlos Daniel Godoy<br>Lucas Ramon |
+| Data       | Versão | Descrição               | Autor(es)                          | Revisor(es)                        |
+| ---------- | ------ | ----------------------- | ---------------------------------- | ---------------------------------- |
+| 08/03/2022 | 0.1    | Criação do documento    | Carlos Daniel Godoy<br>Lucas Ramon | **\_\_**                           |
+| 12/03/2022 | 0.2    | Revisão do documento    | Carlos Daniel Godoy<br>Lucas Ramon | Carlos Daniel Godoy<br>Lucas Ramon |
+| 15/03/2022 | 0.3    | Revisão da documentação | Pedro Helias Carlos                | **\_\_**                           |
+
+<div align="justify">
+
+# Introdução.
 
 Segundo Jakob Nielsen, há seis metas de usabilidade :
 
 <div align="center">
 
-<b>Diagrama de metas de usabilidade</b>
+<b>Figura1:</b> Diagrama de metas de usabilidade
 <br>
 <img align='center' height="320" width="320" src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/metasusabi.jpeg?raw=true">
 <br>
@@ -23,6 +28,7 @@ Segundo Jakob Nielsen, há seis metas de usabilidade :
 - Aprendizagem;
 - Utilidade;
 - Memorização.
+  <br>
 
 # 1. Efetividade
 

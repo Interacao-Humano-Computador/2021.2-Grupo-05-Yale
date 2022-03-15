@@ -1,11 +1,12 @@
-# <center>Análise de Tarefas
- 
+# <center>Princípios Gerais para o Projeto
+
 ## Histórico de Versão
- 
-| Data       | Versão | Descrição                            | Autor(es)           | Revisor(es)  |
-| ---------- | ------ | ------------------------------------ | ------------------- | ------------ |
-| 08/03/2022 | 0.1    | Criação do documento                 | Ana Júlia           | Luiz Gustavo |
- 
+
+| Data       | Versão | Descrição                | Autor(es)           | Revisor(es)  |
+| ---------- | ------ | ------------------------ | ------------------- | ------------ |
+| 08/03/2022 | 0.1    | Criação do documento     | Ana Júlia           | Luiz Gustavo |
+| 15/03/2022 | 0.2    | Revisão de alguns pontos | Pedro Helias Carlos | **\_\_**     |
+
 <div align="justify">
  
  
