@@ -44,10 +44,9 @@ Esse método foi desenvolvido para entender as competências e habilidades exibi
 </div>
  
 Para o nosso projeto, propôs-se a leitura de duas funcionalidades. A primeira se trata de uma funcionalidade de visualização de calendário, com alterações de tipo de visualização, sistema de busca, de filtragem, e de inscrição em eventos. Além dessa, temos a funcionalidade de Login, onde o usuário possui duas formas de se logar ao sistema e formas de recuperar a senha.
- 
-# 3. Diagrama do projeto.
- 
- 
+
+# 3. Diagramas do projeto.
+
 <div align="center">
 
 <b>Figura 2: </b> Estrutura criada para diagramar a funcionalidade do calendário.
