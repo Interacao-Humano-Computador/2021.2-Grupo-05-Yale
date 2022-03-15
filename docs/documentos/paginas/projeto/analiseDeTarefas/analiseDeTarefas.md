@@ -47,10 +47,11 @@ Para o nosso projeto, propôs-se a leitura de duas funcionalidades. A primeira s
  
 # 3. Diagrama do projeto.
  
+ 
 <div align="center">
- 
+
 <b>Figura 2: </b> Estrutura criada para diagramar a funcionalidade do calendário.
- 
+
   <img width="450" src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/hta1.png?raw=true" />
 
   <div>
