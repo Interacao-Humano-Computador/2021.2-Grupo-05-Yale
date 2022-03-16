@@ -26,6 +26,7 @@
 
   - **Nível 1**
     - [Personas](documentos/paginas/projeto/Personas/personas.md)
+    - [StoryBoard](documentos/paginas/projeto/StoryBoard/storyBoard.md)
   - **Nível 2**
   - **Nível 3**
 
