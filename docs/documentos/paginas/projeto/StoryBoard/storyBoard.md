@@ -17,7 +17,9 @@ O storyboard é um tipo de protótipo de baixa fidelidade, onde é representado 
 ## 2.1 Benefícios
 <p style="text-align: justify;">
 O storyboard traz alguns bons benefícios, são eles:
+
 * Foco holístico: ajuda a enfatizar como uma interface realiza uma tarefa.
+
 * Evita o compromisso com uma interface de usuário especifica (ainda sem botões).
 * Ajuda a colocar todos os stakeholders na mesma pagina em termos do objetivo.
 </p>

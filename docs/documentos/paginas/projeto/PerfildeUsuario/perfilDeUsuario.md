@@ -26,9 +26,8 @@ O primeiro passo para a compreensão a respeito do usuário é criar um perfil p
 <p style="text-align: justify;">O questionário foi distribuido em grupos de conhecidos e pessoas próximas aos integrantes do grupo, a fim de recolher o maior número de informações possível.
 </p>
 
-<p style="text-align: justify;">O questionário pode ser acessado clicando [aqui](https://interacao-humano-computador.github.io/2021.2-Grupo-05-Yale/#/).
+<p style="text-align: justify;">O questionário pode ser acessado clicando <a href="https://forms.gle/Zk8bBxWCJ9MurDRX8">aqui</a>
 </p>
-
 
 # 3. Resultados
 
