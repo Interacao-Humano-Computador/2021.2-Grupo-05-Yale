@@ -1,8 +1,8 @@
 ## Versionamento
 
-| Versão | Data | Modificação | Autor |
-|--|--|--|--|
-| 1.0 | 16/03/2022 | Planejamento da avaliação de Análise de Tarefas produzido. | Maicon, Ana Julia e Luiz Guilherme |
+| Versão | Data       | Modificação                        | Autor                              |
+|--------|------------|------------------------------------|------------------------------------|
+| 1.0    | 16/03/2022 | Produção do relato dos resultados. | Maicon, Ana Julia e Luiz Gustavo   |
 
 ## 1. Introdução
 
