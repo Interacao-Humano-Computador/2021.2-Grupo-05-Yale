@@ -25,6 +25,9 @@
 - **Design, Avaliação e Desenvolvimento**
 
   - **Nível 1**
+    - **Análise de Tarefas**
+      - [Planejamento da Análise de Tarefas](documentos/paginas/analiseTarefas/planejamentoAnaliseTarefas/planejamentoAnaliseTarefas.md)
+      - [Relato dos Resultados da Avaliação da Análise de Tarefas](documentos/paginas/analiseTarefas/relatoResultados/relatoResultados.md)
     - [Personas](documentos/paginas/projeto/Personas/personas.md)
     - [StoryBoard](documentos/paginas/projeto/StoryBoard/storyBoard.md)
     - [Planejamento de Avaliação do Storyboard](documentos/paginas/planejamentoAvaliacao/planejamentoAvaliacao.md)
