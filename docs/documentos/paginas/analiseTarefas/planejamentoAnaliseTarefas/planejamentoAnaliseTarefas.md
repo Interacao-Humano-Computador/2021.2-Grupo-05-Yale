@@ -97,20 +97,20 @@ Inicialmente, o avaliador irá se apresentar e realizar a recepção do particip
 
 | Número| <center> Pergunta                                  | <center> Opções de resposta                   |
 |:-----:|:---------------------------------------------------|:----------------------------------------------|
-| 1     | Qual o seu nome?                                   | João Rodrigues                                 |
-| 2     | Qual a sua idade?                                  | 18                                            |
-| 3     | Qual a sua nacionalidade?                          | Brasileira                                    |
-| 4     | Qual a sua escolaridade?                           | [X] Ensino Médio <br>[ ] Graduação<br>[ ] Mestrado<br>[ ] Dutorado |
-| 5     | Qual o seu conhecimento de informática? | [ ] Nenhum <br>[X] Pouco<br>[ ] Mediano<br>[ ] Muito |
-| 6     | Já acessou o site do Yale?                      | [X] Sim<br>[ ] Não |
-| 7     | (Se já tiver acessado) Sua primeira experiência foi interessante? Como foi? | Foi bem simples de navegar para o tipo o vestibular que eu queria me cadastrar, apesar da minha dificuldade com aparelhos eletrônicos. |
-| 8     | Como faz para saber sobre as informações ou vestibulares abertos? | [ ] Acessando o site do Yale <br>[X] Pesquisando por noticias <br>[ ] Utilizando redes sociais <br>[ ] Outros. Como? |
-| 9    | O que foi encontrado é relevante para você? | Sim |
-| 10   | Sua experiência foi interessante? Como foi? | Bom, eu acredito que o site da Yale poderia ter uma funcionalidade de notificações de vestibulares e informações importantes, apesar de fornecer essas informações normalmente não é prático para mim.|
-| 11    | Foi relevante para você? | Sim |
-| 12   | Sua experiência foi interessante? Como foi? | Minha experiência foi bem negativa, para me cadastrar no vestibular fui redirecionada para um site de acompanhamento em que toda a estética do site mudou e tive muitas dificuldades. |
-| 13    | Foi relevante para você? | Sim |
-| 14   | Sua experiência foi interessante? Como foi? | Como disse anteriormente foi bem difícil me adaptar nesse site novo. |
+| 1     | Qual o seu nome?                                   |                                 |
+| 2     | Qual a sua idade?                                  |                                             |
+| 3     | Qual a sua nacionalidade?                          |                                    |
+| 4     | Qual a sua escolaridade?                           | [ ] Ensino Médio <br>[ ] Graduação<br>[ ] Mestrado<br>[ ] Dutorado |
+| 5     | Qual o seu conhecimento de informática? | [ ] Nenhum <br>[ ] Pouco<br>[ ] Mediano<br>[ ] Muito |
+| 6     | Já acessou o site do Yale?                      | [ ] Sim<br>[ ] Não |
+| 7     | (Se já tiver acessado) Sua primeira experiência foi interessante? Como foi? |   |
+| 8     | Como faz para saber sobre as informações ou vestibulares abertos? | [ ] Acessando o site do Yale <br>[ ] Pesquisando por noticias <br>[ ] Utilizando redes sociais <br>[ ] Outros. Como? |
+| 9    | O que foi encontrado é relevante para você? |  |
+| 10   | Sua experiência foi interessante? Como foi? |  |
+| 11    | Foi relevante para você? | [ ] Sim<br>[ ] Não |
+| 12   | Sua experiência foi interessante? Como foi? |   |
+| 13    | Foi relevante para você? | [ ] Sim<br>[ ] Não |
+| 14   | Sua experiência foi interessante? Como foi? |   |
 
 <center>
 <figcaption>Tabela 1 - Roteiro para a entrevista</figcaption>
