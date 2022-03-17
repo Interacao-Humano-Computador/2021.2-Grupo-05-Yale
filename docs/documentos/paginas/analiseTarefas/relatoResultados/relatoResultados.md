@@ -38,9 +38,10 @@ Infortunadamente, o grupo não conseguiu a tempo obter o contato com as pessoas 
 <p style="text-indent: 20px; text-align: justify"> 
 Conforme o previsto na preparação para esta avaliação, devido à atual situação social, que impõe o distanciamento por conta da pandemia que se enfrenta no momento, inclusive numa recomendação da própria Universidade e também por conta do pouquissimo tempo que nos foi dado para realizar a tarefa os entrevistados voluntários foram familiares dos integrantes do grupo que estavam de mais fácil acesso, então seguindo o roteiro. O ambiente estabelecido por voluntariado dos participantes foi:
 </p>
-- Na própria residência.
-- Em frente ao computador com acesso a internet, para auxílio dos outros integrantes.
+- Na própria residência;
+- Em frente ao computador com acesso a internet, para auxílio dos outros integrantes;
 - Microfone;
+- Conhecimento Básico de Inglês, por se tratar de uma universidade Norte Americana.
 <p style="text-indent: 20px; text-align: justify"> 
 O grupo sugeriu que para as entrevistas fosse utilizada a plataforma Google Meet, para realizar a chamada. Não foi detectado nenhum problema que pudesse atrapalhar na consolidação dos resultados.
 </p>
@@ -71,12 +72,12 @@ Os resultados serão aqui relatados seguindo o roteiro de respostas e interaçõ
 | | Agora, nós iremos pedir que você realize algumas tarefas, e gostaríamos que relatasse cada movimento que você realiza na tela, por mais simples que seja. |  |
 | 4      | Se você quisesse acessar o site do curso de artes da Yale, como você faria isso? | Demonstrativo|
 | 5      | Como o processo de cadastro é um tanto demorado, pois há muitas campos para serem preenchidos, gostaríamos que fosse até página de cadastro e analisasse se há algum campo que você ache desnecessário ou confuso. | Demonstrativo |
-| 6      | Se você quisesse realizar o login no site, como você faria isso? Nesse campo gostaríamos que fosse entrasse com os dados: | Demonstrativo</br>Login: **Teste_IHC**</br>Senha: **senha@123**|
+| 6      | Se você quisesse realizar o login no site, como você faria isso? Nesse campo gostaríamos que fosse entrasse com os dados: | Demonstrativo</br>Login: **Escolha do entrevistado**</br>Senha: **Escolha do entrevistado**|
 | 7      | Se você quisesse acessar a releitura de obras como você faria isso? | Demonstrativo |
 | 8      | Se você quisesse divulgar notícias para os estudantes do curso, como você faria isso? | Demonstrativo|
 | 9      | Caso você tenha interesse pelo curso de artes da Universidade Yale e quisesse se inscrever para a avaliação de entrada, como você faria isso? | Demonstrativo |
 | 10     | Foi difícil navegar pelo site para encontrar as páginas solicitadas? | <li>Sim</li><li>Não</li> |
-| 10.1   | Qual o motivo de ter sido tão difícil? (Caso a pergunta 10 tenha sido respondida com "Sim"))| Discursiva |
+| 10.1   | Qual o motivo de ter sido tão difícil? (Caso a pergunta 10 tenha sido respondida com "Sim")| Discursiva |
 
 <center>
 <figcaption>Tabela 1 - Roteiro para a entrevista</figcaption>
@@ -95,7 +96,7 @@ Inicialmente, o entrevistador solicitou ao participante que relatasse em voz alt
 A estudante entrevistada Ana Gabriela correspondeu de forma estressante as perguntas, e passou seu feedback quanto à experiência de usuário sendo um novato no site. Assim, o seu feedback foi negativo quanto às perguntas 4, 6, e 7 ,não conseguindo solucionar a questão proposta e realizar os passos da tarefas solicitadas nesses questionamentos.
 </p>
 <p style="text-indent: 20px; text-align: justify">
-Em se tratando de dificuldades relatadas por uma experiência de usuário ruim, o entrevistado relatou, quando feita a pergunta 5, não entender o significado do campo "QQ" no cadastro e também a não necessidade de possuir um campo de cadastro de "School", que seria a instituição de ensino, não sabendo a priori se era ou não um campo obrigatório de preenchimento. Durante a pergunta 8, achou inadequado o texto do botão "Problem" estar no singular, sendo uma semântica inadequada para o que a página traz como resultado, no caso, vários problemas e não apenas um. Na pergunta 9, relatou fazer por um chute, já que o site não apresenta ajuda para entender o que significa cada campo. Quanto às perguntas 10 e 11, o entrevistado não conseguiu solucionar a pergunta, alegando não saber o que o site quer dizer com a diferença entre "prob" e "title". Percebe que há diferença pelo texto, mas não consegue identificar o que significa. E por último, ao responder a pergunta 13, relatou que provavelmente sentiria dificuldade caso fosse um usuário inexperiente.
+Em se tratando de dificuldades relatadas por uma experiência de usuário ruim, o entrevistado relatou, quando feita a pergunta 5, não encontrou o botão de login facilmente e quando encontrou reclamou de sua posição, Existe um login para estudantes da Yale e um login para visitantes então ela utilizou a opção "My account doesn't use Yale NetID". Durante a pergunta 8, foi descoberto que provavelmente somente alunos mátriculados e/ou professores podem fazer tão ação. Na pergunta 9, relatou fazer por um chute, já que o site não apresenta ajuda para entender o que significa cada campo. Quanto à pergunta 10.1, o motivo de ter achado tão díficil foi em relação a má colocação dos botões e por isso não conseguiu executar todas as ações facilmente.
 </p>
 <p style="text-indent: 20px; text-align: justify">
 No final, a entrevistada alegou não conseguir realizar a maioria das tarefas por não ser familiarizada com sites desse estilo, mas que considera alguns problemas extras realmente prejudiciais, como os botões pouco visíveis e mal localizados, não considerando um sistema receptivo para novos usuários.
@@ -107,7 +108,7 @@ No final, a entrevistada alegou não conseguir realizar a maioria das tarefas po
 O estudante entrevistado João Gabriel correspondeu de forma gentil às perguntas, e passou seu feedback quanto à experiência de usuário sendo um novato no site. Assim, o seu feedback foi positivo quanto às perguntas 4, 5, 6 e 7 conseguindo solucionar a questão proposta e realizar os passos da tarefas solicitadas nesses questionamentos.
 </p>
 <p style="text-indent: 20px; text-align: justify">
-Em se tratando de dificuldades relatadas por uma experiência de usuário ruim, o entrevistado relatou, quando feita a pergunta 5, não entender o significado do campo "QQ" no cadastro sobre o que se refere o campo "School", no caso, se seria em relação à instituição de ensino ou à escolaridade, e alegou o não entendimento da diferença entre os campos "Nickname" e "Username", se ambos seriam necessários. Na pergunta 9, não conseguiu realizar a tarefa, se confundindo por conta do botão chamado "Filter", e alegando não entender o que significa cada campo que realmente deveria ser utilizado para a busca, comportamento que refletiu no mesmo resultado frustrado quanto às perguntas 10 e 11, também alegando não saber o que o site quer dizer com a diferença entre as colunas "prob" e "title". Percebe que há diferença pelo texto, mas não consegue identificar o que significa. Ao responder a pergunta 14, relatou que acharia mais intuitiva somente a existência da opção dada pela pergunta, ao invés do uso dos acessos pela página Problem. E por último, ao responder a pergunta 15, o entrevistado não conseguiu entender a priori o que significa dois dos quatro botões questionados.
+Em se tratando de dificuldades relatadas por uma experiência de usuário ruim, o entrevistado relatou, quanto as perguntas 4, 5, 6, 7 e 8, que são as questões demonstrativas, que foi dificultoso achar cada parte do website que correspondia a cada atividade proposta, pois pelas próprias palavras do entrevistado "O site é bem feio e parece antigo", então não segue um padrão atual de design e organização. E teve opiniões bem parecidas sobre a questão 10 e 10.1 em relação a outra entrevistada.
 </p>
 <p style="text-indent: 20px; text-align: justify">
 Ao contrário da outra entrevistada, este não deixou um feedback final, sobre opiniões gerais quanto ao site analisado.
