@@ -18,8 +18,7 @@ A preparação para avaliação é fundamental para a condução adequada de uma
 
 
 <p style="text-indent: 20px; text-align: justify">
-Nessa avaliação será analisado a tarefa principal do site Yale, que concluímos ao realizar a Análise de tarefas pelos métodos GOMS e AHT, que é o processo de acessar a página de problemas e encontrar um problema espécifico, passos esses que podem ser feitos tanto deslogado como logado em uma conta, nesse sentido avaliaremos também o processo de realizar um login e as aspectos principais relacionados ao resolver um problema.
-</p>exibidas em taeefas complexas e não repetitivasNessa avaliação será analisado a tarefa principal do site Yale, que concluímos ao realizar a Análise de tarefas pelos métodos GOMS e AHT, que é o processo de acessar a página de problemas e encontrar um problema espécifico, passos esses que podem ser feitos tanto deslogado como logado em uma conta, nesse sentido avaliaremos também o processo de realizar um login e as aspectos principais relacionados ao resolver um problema.
+Nessa avaliação será analisado a tarefa principal do site Yale, que concluímos ao realizar a Análise de tarefas pelos métodos GOMS e AHT, Esse método foi desenvolvido para entender as competências e habilidades exibidas em tarefas complexas e não repetitivas, nesse sentido avaliaremos também o processo de realizar um login e as aspectos principais relacionados ao resolver um problema.
 </p>
 
 ## 4. Método selecionado
@@ -54,7 +53,7 @@ Porém, para facilitar a gravação da entrevista, iremos propor inicialmente pa
 </p>
 
 - Microsoft Teams
-- Google Meets
+- Jitsi
 
 ## 7. Termo de consentimento
 
@@ -63,7 +62,7 @@ Para a participação nesta avaliação, o participante, que é voluntário, dev
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-Somos o grupo 5 da disciplina de Interação Humano Computador da Universidade de Brasília, e estamos realizando uma análise quanto à abrangência e efetivação dos requisitos e interação com usuário e respectiva remodelagem do sistema interativo Vjudge, que é um site da comunidade destinado à resolução de problemas de programação. Nessa etapa do projeto, queremos conhecer o que algumas das pessoas que irão usar o sistema pensam a respeito da análise de tarefas realizada por este grupo, e como imaginam que o novo sistema deveria apoiar o seu trabalho. Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização e gravação de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa: 
+Somos o grupo 5 da disciplina de Interação Humano Computador da Universidade de Brasília, e estamos realizando uma análise quanto à abrangência e efetivação dos requisitos e interação com usuário e respectiva remodelagem do site da Universidade Yale, que é um site de instituição destinado a informações e matriculas. Nessa etapa do projeto, queremos conhecer o que algumas das pessoas que irão usar o sistema pensam a respeito da análise de tarefas realizada por este grupo, e como imaginam que o novo sistema deveria apoiar o seu trabalho. Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização e gravação de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa: 
 </p>
 
 <ul>
@@ -71,7 +70,7 @@ Somos o grupo 5 da disciplina de Interação Humano Computador da Universidade d
 <li> Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o docente. A divulgação desses resultados pauta-se no respeito à sua privacidade, e a preservação de seus dados pessoais serão preservados em quaisquer documentos que elaborarmos, apenas utilizando da sua identificação básica, nome e idade, e ocupação. </li>
 <li> O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa. </li>
 <li> A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade. </li>
-<li> Nossa equipe encontra-se disponível para contato através do e-mail 180101617@aluno.unb.br. </li>
+<li> Nossa equipe encontra-se disponível para contato através do e-mail 180105825@aluno.unb.br. </li>
 </ul>
 
 <p style="text-indent: 20px; text-align: justify">
@@ -98,29 +97,24 @@ Levando em conta que a avaliação será realizada por meio do método de entrev
 Inicialmente, o avaliador irá se apresentar e realizar a recepção do participante. Dirá que esta entrevista durará em torno de vinte à trinta minutos. O entrevistador irá ler por completo o termo de consentimento e solicitará a responda do entrevistado. Caso a resposta seja positiva, o entrevistador solicitará que o entrevistado compartilhe a tela e iniciará a entrevista por meio do roteiro abaixo, deixando claro que em qualquer momento o entrevistado pode fazer perguntas e tirar suas dúvidas.
 </p>
 
-| Número | Pergunta | Possível Resposta |
-|:--:|:--:|:---|
-| 1 | Qual é o seu nome completo? | Discursiva |
-| 2 | Tendo em vista o perfil de usuário que criamos para o site, gostaríamos que você comunicasse qual é sua ocupação?  | <li>Estudante</li><li>Professor</li><li>Outro</li> |
-| 2.1 | Qual é o seu grau de ensino? (Caso a pergunta 2 tenha sido respondida "Estudante") |Discursiva |
-| 2.1.1 | Qual é o seu curso e semestre? (Caso a pergunta 2.1 tenha sido respondida com superior incompleto) | Discursiva|
-| 2.2 | Você é professor de qual faculdade e qual disciplina ou disciplinas você ministra? (Caso a pergunta 2 tenha sido respondida com "Professor") |Discursiva |
-| 2.3 | Com que tipo de pesquisa você está relacionado? (Caso a pergunta 2 tenha sido respondida com "Pesquisador") | Discursiva|
-| 3 | Você já utilizou o Vjudge? | <li>Sim</li><li>Não</li> |
-| 3.1 | Qual a sua frequência de uso do Vjudge? (Caso a pergunta 3 tenha sido respondida com "Sim") | Discursiva |
-| | Agora, nós iremos pedir que você realize algumas tarefas, e gostariamos que relatasse cada movimento que você realiza na tela, por mais simples que seja. |  |
-| 4 | Se você quisesse acessar o site Vjudge, como você faria isso? | Demonstrativo|
-| 5 | Como o processo de cadastro é um tanto demorado, pois há muitas campos para serem preenchidos, gostaríamos que fosse até página de cadastro e analisasse se há algum campo que você ache desnecessário ou confuso. | Demonstrativo|
-| 6 | Se você quisesse realizar o login no site, como você faria isso? Nesse campo gostaríamos que fosse entrasse com os dados: | Demonstrativo</br>Login: **Teste_IHC**</br>Senha: **senha@123**|
-| 7 | Se você quisesse acessar o seu perfil, como você faria isso | Demonstrativo |
-| 8 | Se você quisesse acessar a tela que mostra todos os problemas existentes no site, como você faria isso? | Demonstrativo|
-| 9 | Sendo o Vjudge um site que reúne problemas de outros juízes online, se você quisesse que fosse mostrado apenas os problema do juíz online HackerRank, como você faria isso? | Demonstrativo|
-| 10 | Na lista de problemas você pode ver que existe a coluna "Prob" e a coluna "Title" que contêm links que levam você para outra página, tendo isso em vista, fica claro a diferença entre a duas colunas? | Demonstrativo|
-| 11 | O Vjudge reúne problemas de outros juízes online, mas você pode submeter sua solução pelo próprio Vjudge, se você quisesse fazer isso, submeter a solução de um problema no Vjudge, em qual dos links você clicaria, no da coluna "Prob" ou no da coluna "Title"? | Demonstrativo|
-| 12 | Sabendo da diferença dos links, acesse a página do problema no Vjudge? | Demonstrativo|
-| 13 | Se você quisesse acessar o site do problema original, você conseguiria acessar pela página do problema no Vjudge? | Demonstrativo|
-| 14 | Você acha que esses que as duas colunas da página anterior são necessárias, ou você acharia melhor se o link que o leva para o site do problema original estivesse apenas dentro da página do problema no Vjudge? | Demonstrativo|
-| 15 | Os quatro pontões na parte superior-esquerda em relação a descrição do problema, então bem explicados, quer dizer, sem clicar neles, você pode me dizer o que cada um faz? | Demonstrativo|
+
+
+| Número| <center> Pergunta                                  | <center> Opções de resposta                   |
+|:-----:|:---------------------------------------------------|:----------------------------------------------|
+| 1     | Qual o seu nome?                                   | João Rodrigues                                 |
+| 2     | Qual a sua idade?                                  | 18                                            |
+| 3     | Qual a sua nacionalidade?                          | Brasileira                                    |
+| 4     | Qual a sua escolaridade?                           | [X] Ensino Médio <br>[ ] Graduação<br>[ ] Mestrado<br>[ ] Dutorado |
+| 5     | Qual o seu conhecimento de informática? | [ ] Nenhum <br>[X] Pouco<br>[ ] Mediano<br>[ ] Muito |
+| 6     | Já acessou o site do Yale?                      | [X] Sim<br>[ ] Não |
+| 7     | (Se já tiver acessado) Sua primeira experiência foi interessante? Como foi? | Foi bem simples de navegar para o tipo o vestibular que eu queria me cadastrar, apesar da minha dificuldade com aparelhos eletrônicos. |
+| 8     | Como faz para saber sobre as informações ou vestibulares abertos? | [ ] Acessando o site do Yale <br>[X] Pesquisando por noticias <br>[ ] Utilizando redes sociais <br>[ ] Outros. Como? |
+| 9    | O que foi encontrado é relevante para você? | Sim |
+| 10   | Sua experiência foi interessante? Como foi? | Bom, eu acredito que o site da Yale poderia ter uma funcionalidade de notificações de vestibulares e informações importantes, apesar de fornecer essas informações normalmente não é prático para mim.|
+| 11    | Foi relevante para você? | Sim |
+| 12   | Sua experiência foi interessante? Como foi? | Minha experiência foi bem negativa, para me cadastrar no vestibular fui redirecionada para um site de acompanhamento em que toda a estética do site mudou e tive muitas dificuldades. |
+| 13    | Foi relevante para você? | Sim |
+| 14   | Sua experiência foi interessante? Como foi? | Como disse anteriormente foi bem difícil me adaptar nesse site novo. |
 
 <center>
 <figcaption>Tabela 1 - Roteiro para a entrevista</figcaption>
@@ -139,4 +133,3 @@ A partir da realização da entrevista conforme o roteiro antes descrito, o grup
 ## Referências bibliográficas
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
-
