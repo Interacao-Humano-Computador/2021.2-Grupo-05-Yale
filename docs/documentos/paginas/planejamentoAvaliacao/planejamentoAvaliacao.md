@@ -120,24 +120,23 @@ Inicialmente, às margens de se executar a entrevista, o entrevistador informar�
 
 ### 6.3.2. Possível futuro estudante de Artes.
 
-Pergunta 1 - Observando os storyboards anteriores, você percebe alguma semelhança com o que de fato é apresentado no sistema da YALE? Respotas possíveis: SIM, NÃO, INCONCLUSIVO.
-
-Pergunta 2 - Se a resposta anterior for negativa, pode explicar o motivo da sua resposta?
-
-Pergunta 3 - Como futuro estudante de Artes, o terceiro storyboard se assemelha a realidade?
-
-Pergunta 4 - Ainda sobre o terceiro Storyboard, voce acredita que o mesmo serviço no site utilizado atende a críterios que facilitem aspirantes ao curso de arte a procederem com todos os caminhos possíveis e realizar a tentativa de matricula?
-
-Pergunta 5 - Se a resposta anterior for negativa, pode explicar o motivo da sua resposta?
-
-Pergunta 6 - Você considera uma boa inicitiva o fato demonstrado no segundo storyboard?
-
-Pergunta 7 - Se a resposta anterior for negativa, pode explicar o motivo da sua resposta?
-
-Pergunta 8 - Alguma consideração a mais, dúvidas ou perguntas?
+| Numeração | Pergunta                                                                                                                                                                                                                              | Respostas Possíveis       |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| 1         | Observando os storyboards anteriores, você percebe alguma semelhança com o que de fato é apresentado no sistema da YALE?                                                                                                              | SIM, NÃO ou INCONCLUSIVO. |
+| 2         | Se a resposta anterior for negativa, pode explicar o motivo da sua resposta?                                                                                                                                                          | Questão aberta            |
+| 3         | Como futuro estudante de Artes, o terceiro storyboard se assemelha a realidade?                                                                                                                                                       | SIM, NÃO ou INCONCLUSIVO. |
+| 4         | Ainda sobre o terceiro Storyboard, voce acredita que o mesmo serviço no site utilizado atende a críterios que facilitem aspirantes ao curso de arte a procederem com todos os caminhos possíveis e realizar a tentativa de matricula? | SIM, NÃO ou INCONCLUSIVO. |
+| 5         | Se a resposta anterior for negativa, pode explicar o motivo da sua resposta?                                                                                                                                                          | Questão Aberta            |
+| 6         | Você considera uma boa inicitiva o fato demonstrado no segundo storyboard?                                                                                                                                                            | SIM, NÃO ou INCONCLUSIVO. |
+| 7         | Se a resposta anterior for negativa, pode explicar o motivo da sua resposta?                                                                                                                                                          | Questão Aberta.           |
+| 8         | Alguma consideração a mais, dúvidas ou perguntas?                                                                                                                                                                                     | Questão aberta            |
 
 ### 6.3.3. Membro do corpo docente.
 
 # 7. Conclusão
 
+A partir do estudo a respeito dos benefícios de se construir uma estrutura de planejamento para essa importante fase do projeto, acreditamos que poderemos potencializar os resultados obtidos nas entrevistas. Por serem perguntas direcionadas ao objetivo pretendedido, acreditamos também que os dados serão mais completos e coeretentes.
+
 # Referências Bibliográficas
+
+- BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
