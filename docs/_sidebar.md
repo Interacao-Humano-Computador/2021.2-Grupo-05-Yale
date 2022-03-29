@@ -32,6 +32,8 @@
       - [StoryBoard](documentos/paginas/projeto/StoryBoard/storyBoard.md)
       - [Planejamento de Avaliação do Storyboard](documentos/paginas/planejamentoAvaliacao/planejamentoAvaliacao.md)
   - **Nível 2**
+    - **Protótipo de Papel**
+      - [Planejamento da Avaliação do Protótipo de Papel](documentos/paginas/projeto/planejamentoPrototipoPapel/planejamentoPrototipoPapel.md)
   - **Nível 3**
 
 - **Apresentações**
