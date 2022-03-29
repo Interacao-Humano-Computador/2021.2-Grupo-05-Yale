@@ -23,11 +23,10 @@ O grupo realizou a escolha de utilizar como método para esta avaliação a <b>e
 ### 2.1. Participantes
 
 <p style="text-indent: 20px; text-align: justify"> 
-Após um período de procura por voluntários a serem entrevistados acerca deste tema, o grupo teve felicidade em encontrar 3 pessoas para serem entrevistadas, todos de acordo com o termo de consentimento, estabelecidos os os cuidados éticos necessários. São:
+Após um período de procura por voluntários a serem entrevistados acerca deste tema, o grupo teve felicidade em encontrar 1 pessoa para ser entrevistada, todos de acordo com o termo de consentimento, estabelecidos os os cuidados éticos necessários. Ela é:
 </p>
 
-- Ana Gabriela, irmã da integrante Ana Julia, formada em uma área e interessada por uma mudança para a área de artes modernas (que satisfaz o perfil de usuário de <b>estudante em potêncial</b>);
-- João Gabriel, irmão do integrante Luiz Gustavo, aluno recém formado no ensino médio em busca de um curso superior para começar a carreira (que também satisfaz o perfil de usuário de <b>estudante em potêncial</b>);
+- Mariana, irmã do integrante Luiz Gustavo, aluna recém formada no ensino médio em busca de um curso superior para começar a carreira (que satisfaz o perfil de usuário de <b>estudante em potêncial</b>);
 
 <p style="text-indent: 20px; text-align: justify"> 
 Infortunadamente, o grupo não conseguiu a tempo obter o contato com as pessoas que exerçam o papel de Professora de um curso de artes ou de Aluno Novo de um curso de artes que se voluntariasse a ser entrevistado, impossibilitando de trazer uma avaliação da Análise de Tarefas por um usuário que se encaixasse no perfil de professor ou aluno cursando. Assim, não foi possível completar o número recomendado por Nielsen (2000), de 5 participantes. Apesar disso, o grupo acredita ter sido suficiente para ajudar a encontrar a maioria dos problemas na interface, de forma que gerou um bom custo benefício.
@@ -51,8 +50,7 @@ O grupo sugeriu que para as entrevistas fosse utilizada a plataforma Google Meet
 <p style="text-indent: 20px; text-align: justify"> 
 As entrevistas realizadas pelo grupo podem ser acessadas pelo guia lateral da página, ou pelos links abaixo.
 </p>
-- Entrevista com a aluna Ana Gabriela: Arquivo em produção <!-- [link](entrevistas/entrevistaAlvaro.md) -->
-- Entrevista com o aluno João Gbriel: Arquivo em produção <!-- [link](entrevistas/entrevistaJoao.md) -->
+- Entrevista com a aluna Mariana Lopes, disponivel no google drive - Link: https://drive.google.com/file/d/1pQpSbMEhyOLXiUDxiYX0sAwHFaNO6dS1/view?usp=sharing
 
 ## 4. Relato dos resultados
 
@@ -72,7 +70,7 @@ Os resultados serão aqui relatados seguindo o roteiro de respostas e interaçõ
 | | Agora, nós iremos pedir que você realize algumas tarefas, e gostaríamos que relatasse cada movimento que você realiza na tela, por mais simples que seja. |  |
 | 4      | Se você quisesse acessar o site do curso de artes da Yale, como você faria isso? | Demonstrativo|
 | 5      | Como o processo de cadastro é um tanto demorado, pois há muitas campos para serem preenchidos, gostaríamos que fosse até página de cadastro e analisasse se há algum campo que você ache desnecessário ou confuso. | Demonstrativo |
-| 6      | Se você quisesse realizar o login no site, como você faria isso? Nesse campo gostaríamos que fosse entrasse com os dados: | Demonstrativo</br>Login: **Escolha do entrevistado**</br>Senha: **Escolha do entrevistado**|
+| 6      | Se você quisesse realizar o login no site, como você faria isso? | Demonstrativo|
 | 7      | Se você quisesse acessar a releitura de obras como você faria isso? | Demonstrativo |
 | 8      | Se você quisesse divulgar notícias para os estudantes do curso, como você faria isso? | Demonstrativo|
 | 9      | Caso você tenha interesse pelo curso de artes da Universidade Yale e quisesse se inscrever para a avaliação de entrada, como você faria isso? | Demonstrativo |
@@ -90,28 +88,16 @@ Por fim também serão relatados os resultados gerados pelas opiniões do usuár
 Inicialmente, o entrevistador solicitou ao participante que relatasse em voz alta o que ele estava pensando e fazendo durante a interação, utilizando a técnica <b>think aloud</b>, que tem o objetivo de captar exatamente o que o participante desejava realizar no momento, ou suas opiniões quanto às tarefas já realizadas. Isso foi de grande valia para entender de forma detalhada o feedback do entrevistado.
 </p>
 
-### 4.1. Entrevista com a aluna Ana Gabriela
+### 4.1. Entrevista com a aluna Mariana Lopes Campos
 
 <p style="text-indent: 20px; text-align: justify">
-A estudante entrevistada Ana Gabriela correspondeu de forma estressante as perguntas, e passou seu feedback quanto à experiência de usuário sendo um novato no site. Assim, o seu feedback foi negativo quanto às perguntas 4, 6, e 7 ,não conseguindo solucionar a questão proposta e realizar os passos da tarefas solicitadas nesses questionamentos.
+A estudante entrevistada Mariana Lopes correspondeu de forma negativa as perguntas, e passou seu feedback quanto à experiência de usuário sendo uma novata no site. Assim, o seu feedback foi negativo quanto às perguntas 5, 6 e 7,não conseguindo solucionar a questão proposta e realizar os passos da tarefas solicitadas nesses questionamentos.
 </p>
 <p style="text-indent: 20px; text-align: justify">
-Em se tratando de dificuldades relatadas por uma experiência de usuário ruim, o entrevistado relatou, quando feita a pergunta 5, não encontrou o botão de login facilmente e quando encontrou reclamou de sua posição, Existe um login para estudantes da Yale e um login para visitantes então ela utilizou a opção "My account doesn't use Yale NetID". Durante a pergunta 8, foi descoberto que provavelmente somente alunos mátriculados e/ou professores podem fazer tão ação. Na pergunta 9, relatou fazer por um chute, já que o site não apresenta ajuda para entender o que significa cada campo. Quanto à pergunta 10.1, o motivo de ter achado tão díficil foi em relação a má colocação dos botões e por isso não conseguiu executar todas as ações facilmente.
+Em se tratando de dificuldades relatadas por uma experiência de usuário ruim, o entrevistado relatou, quando feitas as perguntas 5 e 6, não encontrou o botão de login facilmente e quando encontrou reclamou de sua posição, Existe um login para estudantes da Yale e um login para visitantes então ela utilizou a opção "My account doesn't use Yale NetID". Na pergunta 7 a entrevistada não conseguiu encontrar a página solicitada por não ter uma barra de pesquisa ou botões melhores que especificassem o solicitado. Durante a pergunta 8, foi descoberto que provavelmente somente alunos mátriculados e/ou professores podem fazer a ação. Quanto à pergunta 10.1, o motivo de ter achado tão díficil foi em relação a má colocação dos botões, por serem pequenos e mal organizados/distribuidos na tela, também reclamou das cores confusas do site.
 </p>
 <p style="text-indent: 20px; text-align: justify">
-No final, a entrevistada alegou não conseguir realizar a maioria das tarefas por não ser familiarizada com sites desse estilo, mas que considera alguns problemas extras realmente prejudiciais, como os botões pouco visíveis e mal localizados, não considerando um sistema receptivo para novos usuários.
-</p>
-
-### 4.2. Entrevista com o aluno João Gabriel
-
-<p style="text-indent: 20px; text-align: justify">
-O estudante entrevistado João Gabriel correspondeu de forma gentil às perguntas, e passou seu feedback quanto à experiência de usuário sendo um novato no site. Assim, o seu feedback foi positivo quanto às perguntas 4, 5, 6 e 7 conseguindo solucionar a questão proposta e realizar os passos da tarefas solicitadas nesses questionamentos.
-</p>
-<p style="text-indent: 20px; text-align: justify">
-Em se tratando de dificuldades relatadas por uma experiência de usuário ruim, o entrevistado relatou, quanto as perguntas 4, 5, 6, 7 e 8, que são as questões demonstrativas, que foi dificultoso achar cada parte do website que correspondia a cada atividade proposta, pois pelas próprias palavras do entrevistado "O site é bem feio e parece antigo", então não segue um padrão atual de design e organização. E teve opiniões bem parecidas sobre a questão 10 e 10.1 em relação a outra entrevistada.
-</p>
-<p style="text-indent: 20px; text-align: justify">
-Ao contrário da outra entrevistada, este não deixou um feedback final, sobre opiniões gerais quanto ao site analisado.
+No final, a entrevistada conseguiu realizar a maioria das tarefas ainda sim com um pouco de dificuldade, e considera alguns problemas extras realmente prejudiciais, como os botões pouco visíveis e mal localizados, não considerando um sistema receptivo para novos usuários, mesmo sendo os próprios alunos da Yale.
 </p>
 
 ## 5. Conclusão
@@ -119,9 +105,9 @@ Ao contrário da outra entrevistada, este não deixou um feedback final, sobre o
 <p style="text-indent: 20px; text-align: justify"> 
 A partir do relato dos resultados da avaliação, o grupo pôde perceber que o processo de análise de requisitos por meio da análise de tarefas não necessita de muitos ajustes. Porém, os feedbacks dados foram de grande valia no sentido de perceber novos ajustes que devem ser feitos no protótipo de alta fidelidade, ou seja, na parte final deste projeto, com o objetivo de consertar os erros de usabilidade do site do curso de artes da Yale.
 </p>
-- Remodelagem e nova coloração dos botões da barra de navegação e reorganização do site, questões levantadas pela estudante Ana Gabriela.
-- Remodelagem da página registro de conta, especificando quais campos são obrigatórios e um guia para o que significa cada campo em si, questão que foi bastante levantada pelos estudantes Ana Gabriela e João Gabriel.
-- Melhorar navegação entre as páginas para que seja mais conpreensível de de fácil acesso, questão levantada pelo estudante João Gabriel.
+- Remodelagem e nova coloração dos botões da barra de navegação e reorganização do site, questões levantadas pela estudante Mariana.
+- Remodelagem das páginas registro e login de conta, pois não há diferença visivel entre as duas, questão levantada pela estudante Mariana.
+- Melhorar navegação entre as páginas para que seja mais conpreensível de de fácil acesso, questão levantada pela estudante Mariana.
 
 ## Referências bibliográficas
 
