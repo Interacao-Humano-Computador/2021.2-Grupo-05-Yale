@@ -26,7 +26,7 @@ E por último, no **relato dos resultados** será relatado os problemas encontra
 Para que o participante faça a avaliação, este deverá concordar com termo de consentimento :
 
 Termo de Consentimento Livre Esclarecido 
-<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/TermoConsentimento.jpeg"/>
+<img src="docs/documentos/imagens/termoConsentimento.jpeg"/>
 
 
 ## 4. Preparação
