@@ -1,8 +1,18 @@
+# <center>Planejamento Protótipo de Papel
+
+### Histórico de Versão
+
+|    Data    | Versão |      Descrição       |      Autor(es)         |
+| :--------: | :----: | :------------------: | :--------------------: |
+| 29.03.2022 |  0.1   | Criação do documento | Ana Júlia, Lucas Ramon |
+
+<div align="justify">
+
+
 ## 1. Introdução
 
 O método de prototipagem em papel consiste em avaliar a usabilidade de um design utilizando um papel,
-por meio de experiencias de uso com possíveis usuários. As vantagens da simulação em papel é basicamente
-a rapidez que os problemas são identificados e de forma barata.
+por meio de experiencias de uso com possíveis usuários. As vantagens da simulação em papel é basicamente a rapidez que os problemas são identificados e de forma barata.
 
 ## 2. Metodologia
 
@@ -16,8 +26,7 @@ E por último, no **relato dos resultados** será relatado os problemas encontra
 Para que o participante faça a avaliação, este deverá concordar com termo de consentimento :
 
 Termo de Consentimento Livre Esclarecido 
-
-
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/TermoConsentimento.jpeg"/>
 
 
 ## 4. Preparação
@@ -41,7 +50,7 @@ Para nossa análise foram escolhidas três tarefas a serem avaliadas:
 
 ### 4.3 Protótipo de papel
 
-imagem
+*imagem*
 
 
 ## 5. Coleta de dados e Interpretação 
@@ -61,3 +70,6 @@ Desta forma, apresentaremos o protótipo de papel e o método utilizado, os prop
 e dos avaliadores. Além disso, faremos um rastreamento dos problemas de usabilidade encontrados no processo.
 
 
+
+### 8. Referencial bibliográfico utilizado.
+- BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.

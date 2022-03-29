@@ -4,7 +4,7 @@
 
 |    Data    | Versão |      Descrição       |      Autor(es)      |
 | :--------: | :----: | :------------------: | :-----------------: |
-| 13.02.2020 |  0.1   | Criação do documento | Pedro Helias Carlos |
+| 13.02.2022 |  0.1   | Criação do documento | Pedro Helias Carlos |
 
 <div align="justify">
 
