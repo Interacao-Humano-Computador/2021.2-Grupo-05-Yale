@@ -31,6 +31,7 @@
       - [Personas](documentos/paginas/projeto/Personas/personas.md)
       - [StoryBoard](documentos/paginas/projeto/StoryBoard/storyBoard.md)
       - [Planejamento de Avaliação do Storyboard](documentos/paginas/planejamentoAvaliacao/planejamentoAvaliacao.md)
+      - [Relato dos Resultados da Avaliação do Storyboard]()
   - **Nível 2**
     - **Protótipo de Papel**
       - [Planejamento da Avaliação do Protótipo de Papel](documentos/paginas/projeto/planejamentoPrototipoPapel/planejamentoPrototipoPapel.md)
