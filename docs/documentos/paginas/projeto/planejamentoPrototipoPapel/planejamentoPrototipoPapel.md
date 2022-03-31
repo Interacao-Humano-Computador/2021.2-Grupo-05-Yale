@@ -2,12 +2,12 @@
 
 ### Histórico de Versão
 
-|    Data    | Versão |      Descrição       |      Autor(es)         |
-| :--------: | :----: | :------------------: | :--------------------: |
-| 29.03.2022 |  0.1   | Criação do documento | Ana Júlia, Lucas Ramon |
+|    Data    | Versão |             Descrição             |       Autor(es)        |      Revisores      |
+| :--------: | :----: | :-------------------------------: | :--------------------: | :-----------------: |
+| 29.03.2022 |  0.1   |       Criação do documento        | Ana Júlia, Lucas Ramon | Pedro Helias Carlos |
+| 31.03.2022 |  0.2   | Alterações no documento - Imagens |  Pedro Helias Carlos   | Pedro Helias Carlos |
 
 <div align="justify">
-
 
 ## 1. Introdução
 
@@ -16,46 +16,61 @@ por meio de experiencias de uso com possíveis usuários. As vantagens da simula
 
 ## 2. Metodologia
 
-Iremos seguir a metodologia proposta no livro *Interação Humano-Computador e Experiência do usuário*, da Simone Barbosa, onde é proposto quatro atividades do método de avaliação heurística. Sendo elas: preparação, coleta de dados e interpretação, consolidação dos resultados, e relato dos resultados.
+Iremos seguir a metodologia proposta no livro _Interação Humano-Computador e Experiência do usuário_, da Simone Barbosa, onde é proposto quatro atividades do método de avaliação heurística. Sendo elas: preparação, coleta de dados e interpretação, consolidação dos resultados, e relato dos resultados.
 Na **preparação** teremos que realizar algumas tarefas como a criação do protótipo de papel, a escolha dos participantes, e a recrutação dos mesmos.
 Na **coleta de dados e interpretação** os participantes escolhidos terão de executar as tarefas propostas pelo protótipo de papel, interagindo com o mesmo. O avaliador por sua vez terá de mediar a execução das tarefas do usuário, assim como listar todos os problemas encontrados pelo participante.
 Na **consolidação dos resultados** será priorizado a resolução dos problemas listados pelo avaliador.
 E por último, no **relato dos resultados** será relatado os problemas encontrados e sugestões de correções.
 
-## 3. Termo de consentimento 
-Para que o participante faça a avaliação, este deverá concordar com termo de consentimento :
+## 3. Termo de consentimento
 
-Termo de Consentimento Livre Esclarecido 
-<img src="docs/documentos/imagens/termoConsentimento.jpeg"/>
+Para que o participante faça a avaliação, este deverá concordar com termo de consentimento:
 
+<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/termoConsentimento.jpeg?raw=true"  />
 
 ## 4. Preparação
 
 Durante a atividade de preparação deve ser apresentado o material de apoio e os protótipos em papel, sendo esses sem detalhes que não forem relevantes. Em nosso trabalho será utilizado protótipos desenhados a mão na realização dos protótipos de baixa fidelidade.
 
 ### 4.1 Perfil dos participantes
+
 Para a realização da avaliação é preciso definir os perfis que devem ser focados. Em nosso projeto iremos focar em pessoas com alguma das seguintes características:
+
 <ul>
     <li>Doscentes do curso de Artes da Universidade de Yale</li>
     <li>Discentes do curso de Artes da Universidade de Yale</li>
     <li>Futuros alunos do curso de Artes Universidade de Yale</li>
-</ul> 
+</ul>
 
 ### 4.2 Tarefas
 
 Para nossa análise foram escolhidas três tarefas a serem avaliadas:
-* Divulgação de releitura de obras de ex-estudantes
-* Divulgação de notícias para os estudantes
-* Busca de informações sobre métodos de ingresso na instituição
+
+- Divulgação de releitura de obras de ex-estudantes
+- Divulgação de notícias para os estudantes
+- Busca de informações sobre métodos de ingresso na instituição
 
 ### 4.3 Protótipo de papel
 
-*imagem*
+<img align='center' height='200' width='200' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem1.png?raw=true"  />
 
+<br>
 
-## 5. Coleta de dados e Interpretação 
+<img align='center' height='200' width='200' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem2.png?raw=true"  />
 
-Cada usuário escolhido deve realizar as tarefas sugeridas interagindo com o protótipo feito em papel. O objetivo é 
+<br>
+
+<img align='center' height='200' width='200' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem3.png?raw=true"  />
+
+<br>
+
+<img align='center' height='200' width='200' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem4.png?raw=true"  />
+
+<br>
+
+## 5. Coleta de dados e Interpretação
+
+Cada usuário escolhido deve realizar as tarefas sugeridas interagindo com o protótipo feito em papel. O objetivo é
 avaliar o comportamento do sistema e a experiência do usuário representando na interface tudo que deverá ser exibido
 para o usuário.
 
@@ -69,7 +84,6 @@ Na última etapa, buscaremos documentar os resultados para que possamos apresent
 Desta forma, apresentaremos o protótipo de papel e o método utilizado, os propósitos da avaliação, a descrição dos participantes
 e dos avaliadores. Além disso, faremos um rastreamento dos problemas de usabilidade encontrados no processo.
 
-
-
 ### 8. Referencial bibliográfico utilizado.
+
 - BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
