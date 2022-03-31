@@ -26,7 +26,47 @@ E por último, no **relato dos resultados** será relatado os problemas encontra
 
 Para que o participante faça a avaliação, este deverá concordar com termo de consentimento:
 
-<img align='center' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/termoConsentimento.jpeg?raw=true"  />
+<br>
+
+ <div>
+     <div align="center" >
+     <b>TERMO DE CONSENTIMENTO</b>
+
+</div>
+
+<br>
+
+Olá, saudações. Você está sendo convidado(a) para participar da pesquisa "Avaliação sobre Protótipo de Baixa Fidelidade - YALE". Você foi selecionado por **\_\_\_\_** (a ser adicionado, podendo ser: indicação ou desejar participar da entrevista) e sua participação não é obrigarória, inclusive a qualquer momento você poderá desistir ou ir embora, com garantias de que possíveis relações entre os envolvidos não serão afetadas. Não ocorrerão consequências com possíveis relações que você tenha/possa vir a ter com a Universidade de Brasília.
+
+Os objetivos a serem explorados nesse estudo envolvem seu participação em um estudo sobre Interação Humano-Computador, em que você nos auxilia a realizar algumas atividades a respeito do protótipo de baixa fidelidade. Há uma temática relacionada a termos como "Educação", "Arte", "Universidade", "Artista".
+
+Não há riscos ou comprometimentos que você possa vir a sofrer após a participação neste estudo, ao passo que sua participação trará benefícios para o decorrer do projeto, atualmente encaminhado. Sua opinião é importante e valiosa para o nosso estudo, e com certeza gostariamos de contar com essas informações.
+
+Temos o compromisso de divulgar os resultados da pesquisa com o nosso docente, e por esse motivo nem todas as informações pessoais serão garantidas de confidencialidade. Porém, para utilização no projeto, serão utilizados dados relacionados a identificação básica. Quaisquer outros dados pessoais obtidos serão protegidos do público em geral.
+Uma cópia desse termo ficará com o senhor para que possa, sempre que necessário, verificar as informações concordadas e concedidas. Em caso de necessidade de contato, podemos tirar suas dúvidas sobre projeto e participação através dos contatos abaixo. O projeto está totalmente evidenciado em https://interacao-humano-computador.github.io/2021.2-Grupo-05-Yale/#/
+
+DADOS DOS INTEGRANTES DO GRUPO
+
+Declaro que entendi os objetivos, riscos e benefícios de minha participação nesta pesquisa e concordo em participar
+
+ <div>
+     <div align="center" >
+     Brasília, ______ de ________ de 2022.
+</div>
+
+<br>
+
+ <div>
+     <div align="center" >
+         _______________________
+</div>
+
+ <div>
+     <div align="center" >
+         Assinatura do entrevistado
+</div>
+
+<br>
 
 ## 4. Preparação
 
@@ -56,19 +96,67 @@ Para nossa análise foram escolhidas três tarefas a serem avaliadas:
 
 <div align="center">
 
-<img height='500' width='400' style = 'transform:rotate(270deg)' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem1.png?raw=true"  />
+  <div>
+      <div align="center">
+      <b>Figuras 1: </b> Representação da Home do site, baseado em protótipo de papel.
+      </div>
+   </div>
+
+<img height='500' width='400' style = 'transform:rotate(90deg)' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem4.png?raw=true"  />
+
+   <div>
+      <div align="center">
+      <b>Fonte: </b> Própria autoria
+      </div>
+   </div>
 
 <br>
+
+ <div>
+      <div align="center">
+      <b>Figuras 2: </b> Representação da página About do site, baseado em protótipo de papel.
+      </div>
+   </div>
+
+<img height='500' width='400' style = 'transform:rotate(270deg)' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem1.png?raw=true"  />
+
+   <div>
+      <div align="center">
+      <b>Fonte: </b> Própria autoria
+      </div>
+   </div>
+
+<br>
+
+ <div>
+      <div align="center">
+      <b>Figuras 3: </b> Representação da página de exibições do site, baseado em protótipo de papel.
+      </div>
+   </div>
 
 <img height='500' width='400' style = 'transform:rotate(90deg)' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem2.png?raw=true"  />
 
+  <div>
+      <div align="center">
+      <b>Fonte: </b> Própria autoria
+      </div>
+   </div>
+
 <br>
+
+ <div>
+      <div align="center">
+      <b>Figuras 4: </b> Representação das telas de login e cadastro do site, baseado em protótipo de papel.
+      </div>
+   </div>
 
 <img height='500' width='400' style = 'transform:rotate(90deg)' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem3.png?raw=true"  />
 
-<br>
-
-<img height='500' width='400' style = 'transform:rotate(90deg)' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem4.png?raw=true"  />
+  <div>
+      <div align="center">
+      <b>Fonte: </b> Própria autoria
+      </div>
+   </div>
 
 <br>
 

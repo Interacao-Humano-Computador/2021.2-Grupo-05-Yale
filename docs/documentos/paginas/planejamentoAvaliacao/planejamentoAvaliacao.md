@@ -2,9 +2,10 @@
 
 ## Histórico de Versão
 
-| Data       | Versão | Descrição            | Autor(es)             | Revisor(es) |
-| ---------- | ------ | -------------------- | --------------------- | ----------- |
-| 15/03/2022 | 0.1    | Criação do documento | Pedro, Carlos e Lucas | ----        |
+| Data       | Versão | Descrição              | Autor(es)             | Revisor(es) |
+| ---------- | ------ | ---------------------- | --------------------- | ----------- |
+| 15/03/2022 | 0.1    | Criação do documento   | Pedro, Carlos e Lucas | Pedro       |
+| 31/03/2022 | 0.2    | Alteração no documento | Pedro Helias          | Pedro       |
 
 <div align="justify">
 
@@ -132,6 +133,17 @@ Inicialmente, às margens de se executar a entrevista, o entrevistador informar�
 | 8         | Alguma consideração a mais, dúvidas ou perguntas?                                                                                                                                                                                     | Questão aberta            |
 
 ### 6.3.3. Membro do corpo docente.
+
+| Numeração | Pergunta                                                                                                                                                                       | Respostas Possíveis       |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| 1         | Observando os storyboards anteriores, você percebe alguma semelhança com o que de fato é apresentado no sistema da YALE?                                                       | SIM, NÃO ou INCONCLUSIVO. |
+| 2         | Se a resposta anterior for negativa, pode explicar o motivo da sua resposta?                                                                                                   | Questão aberta            |
+| 3         | Como atual professor de Artes, o segundo storyboard se assemelha a realidade?                                                                                                  | SIM, NÃO ou INCONCLUSIVO. |
+| 4         | Ainda sobre o segundo Storyboard, voce acredita que o mesmo serviço no site utilizado atende a críterios que facilitem os estudantes a terem acesso ao eventos e obras de arte | SIM, NÃO ou INCONCLUSIVO. |
+| 5         | Se a resposta anterior for negativa, pode explicar o motivo da sua resposta?                                                                                                   | Questão Aberta            |
+| 6         | Como você considera ser a melhor forma de acesso e interação com interface do professor (por exemplo, moodle)                                                                  | SIM, NÃO ou INCONCLUSIVO. |
+| 7         | Se a resposta anterior for negativa, pode explicar o motivo da sua resposta?                                                                                                   | Questão Aberta.           |
+| 8         | Alguma consideração a mais, dúvidas ou perguntas?                                                                                                                              | Questão aberta            |
 
 # 7. Conclusão
 
