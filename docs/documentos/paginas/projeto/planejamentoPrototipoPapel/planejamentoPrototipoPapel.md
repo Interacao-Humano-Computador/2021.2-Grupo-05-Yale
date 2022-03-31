@@ -51,23 +51,24 @@ Para nossa análise foram escolhidas três tarefas a serem avaliadas:
 - Busca de informações sobre métodos de ingresso na instituição
 
 ### 4.3 Protótipo de papel
+
 <div>
 
 <div align="center">
 
-<img height='300' width='200' style = 'transform:rotate(270deg)' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem1.png?raw=true"  />
+<img height='500' width='400' style = 'transform:rotate(270deg)' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem1.png?raw=true"  />
 
 <br>
 
-<img height='300' width='200' style = 'transform:rotate(90deg)' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem2.png?raw=true"  />
+<img height='500' width='400' style = 'transform:rotate(90deg)' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem2.png?raw=true"  />
 
 <br>
 
-<img height='300' width='200' style = 'transform:rotate(90deg)' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem3.png?raw=true"  />
+<img height='500' width='400' style = 'transform:rotate(90deg)' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem3.png?raw=true"  />
 
 <br>
 
-<img height='300' width='200' style = 'transform:rotate(90deg)' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem4.png?raw=true"  />
+<img height='500' width='400' style = 'transform:rotate(90deg)' src="https://github.com/Interacao-Humano-Computador/2021.2-Grupo-05-Yale/blob/inicio/docs/documentos/imagens/prototipo_baixa/imagem4.png?raw=true"  />
 
 <br>
 
