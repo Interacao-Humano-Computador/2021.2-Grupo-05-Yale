@@ -18,7 +18,7 @@ Revisores: Ana Júlia
 
 Inspetor: Ana Júlia
 
-Para acessar o documento, clique <a href="https://youtu.be/CwDOPEuC8CE">aqui!</a>
+Para acessar o documento, clique <a href="documentos/paginas/projeto/guiaDeEstilo/guiaDeEstilo.md">aqui!</a>
 
 # Checklist
 
