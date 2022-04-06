@@ -6,7 +6,7 @@
 | ---------- | ------ | -------------------- | --------------------- | ----------- |
 | 30/03/2022 | 0.1    | Criação do documento | Pedro, Carlos e Lucas | Maicon      |
 | 31/03/2022 | 0.2    | Criação do documento | Pedro                 | Pedro       |
-
+| 06/04/2022 | 0.3    | Criação do documento | Pedro                 | Lucas       |
 <div align="justify">
 
 # 1. Introdução
