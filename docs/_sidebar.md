@@ -17,7 +17,7 @@
 
   - [Site Utilizado no Projeto e características do ambiente](documentos/paginas/projeto/siteEscolhido/siteEscolhido.md)
   - [Análise de Tarefas](documentos/paginas/projeto/analiseDeTarefas/analiseDeTarefas.md)
-  - [Perfil do Usuário](documentos/paginas/projeto/PerfildeUsuario/perfilDeUsuario.md.md)
+  - [Perfil do Usuário](documentos/paginas/projeto/PerfildeUsuario/perfilDeUsuario.md)
   - [Principios Gerais do Projeto](documentos/paginas/projeto/principiosGerais/principiosGerais.md)
   - [Metas de Usabilidade](documentos/paginas/metasDeUsabilidade/metasDeUsabilidade.md)
   - [Guia de Estilo](documentos/paginas/projeto/guiaDeEstilo/guiaDeEstilo.md)
@@ -37,6 +37,9 @@
   - **Nível 2**
     - **Protótipo de Papel**
       - [Planejamento da Avaliação do Protótipo de Papel](documentos/paginas/projeto/planejamentoPrototipoPapel/planejamentoPrototipoPapel.md)
+    - **Verificação dos Artefatos**
+      - [Planejamento da Verificação](documentos/paginas/projeto/verificacaoArtefatos/planejamentoDaVerificacao.md)
+      - [Perfil do Usuário](documentos/paginas/projeto/verificacaoArtefatos/perfilDeUsuario.md)
   - **Nível 3**
 
 - **Apresentações**
