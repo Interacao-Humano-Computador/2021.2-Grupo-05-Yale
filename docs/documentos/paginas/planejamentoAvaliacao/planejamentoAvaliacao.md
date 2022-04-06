@@ -6,6 +6,7 @@
 | ---------- | ------ | ---------------------- | --------------------- | ----------- |
 | 15/03/2022 | 0.1    | Criação do documento   | Pedro, Carlos e Lucas | Pedro       |
 | 31/03/2022 | 0.2    | Alteração no documento | Pedro Helias          | Pedro       |
+| 06/04/2022 | 0.3    | Alteração no documento | Pedro Helias          | Lucas       |
 
 <div align="justify">
 
@@ -68,6 +69,8 @@ Não há riscos ou comprometimentos que você possa vir a sofrer após a partici
 
 Temos o compromisso de divulgar os resultados da pesquisa com o nosso docente, e por esse motivo nem todas as informações pessoais serão garantidas de confidencialidade. Porém, para utilização no projeto, serão utilizados dados relacionados a identificação básica. Quaisquer outros dados pessoais obtidos serão protegidos do público em geral.
 Uma cópia desse termo ficará com o senhor para que possa, sempre que necessário, verificar as informações concordadas e concedidas. Em caso de necessidade de contato, podemos tirar suas dúvidas sobre projeto e participação através dos contatos abaixo. O projeto está totalmente evidenciado em https://interacao-humano-computador.github.io/2021.2-Grupo-05-Yale/#/
+
+Caso você seja menor de idade este termo deve ser assinado pelo seu responsável.
 
 DADOS DOS INTEGRANTES DO GRUPO
 
