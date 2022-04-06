@@ -8,21 +8,18 @@
 
 <div align="justify">
 
-# Contexto
+# Contexto:
 
-Técnica: Inspeção por Checklist
-
-Autores: Pedro Helias Carlos
-
-Revisores: Ana Júlia
-
-Inspetor: Ana Júlia
+- Técnica: Inspeção por Checklist
+- Autores: Pedro Helias Carlos
+- Revisores: Ana Júlia
+- Inspetor: Ana Júlia
 
 Para acessar o documento, clique <a href="documentos/paginas/projeto/StoryBoard/storyBoard.md">aqui!</a>
 
 # Checklist
 
-## Legenda
+## <center>Legenda
 
 <div align="center">
 
@@ -52,7 +49,7 @@ Para acessar o documento, clique <a href="documentos/paginas/projeto/StoryBoard/
 
 <br>
 
-| Porcentagem |
+| Porcentagem de sucesso |
 | ----------- |
 | <center>80% |
 
@@ -74,7 +71,7 @@ Para acessar o documento, clique <a href="documentos/paginas/projeto/StoryBoard/
 
 <br>
 
-| Porcentagem  |
+| Porcentagem de Sucesso  |
 | ------------ |
 | <center>100% |
 

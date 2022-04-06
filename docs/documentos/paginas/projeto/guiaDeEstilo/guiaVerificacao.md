@@ -10,19 +10,19 @@
 
 # Contexto
 
-Técnica: Inspeção por Checklist
+- Técnica: Inspeção por Checklist
 
-Autores: Pedro Helias Carlos
+- Autores: Pedro Helias Carlos
 
-Revisores: Ana Júlia
+- Revisores: Ana Júlia
 
-Inspetor: Ana Júlia
+- Inspetor: Ana Júlia
 
 Para acessar o documento, clique <a href="documentos/paginas/projeto/guiaDeEstilo/guiaDeEstilo.md">aqui!</a>
 
 # Checklist
 
-## Legenda
+## <center>Legenda
 
 <div align="center">
 
@@ -52,7 +52,7 @@ Para acessar o documento, clique <a href="documentos/paginas/projeto/guiaDeEstil
 
 <br>
 
-| Porcentagem |
+| Porcentagem de Sucesso|
 | ----------- |
 | <center>80% |
 
@@ -72,7 +72,7 @@ Para acessar o documento, clique <a href="documentos/paginas/projeto/guiaDeEstil
 
 <br>
 
-| Porcentagem  |
+| Porcentagem de Sucesso  |
 | ------------ |
 | <center>100% |
 
