@@ -4,14 +4,14 @@
 
 | Data       | Versão | Descrição                               | Autor(es)                | Revisor(es)         |
 | ---------- | ------ | ----------------------------------------| ------------------------ | ------------------- |
-| 05/04/2022 | 0.1    | Criação e desenvolvimento do documento. | Luiz Gustavo Lopes Campos| ----                |
+| 05/04/2022 | 0.1    | Criação e desenvolvimento do documento. | Luiz Gustavo             | Luiz Gustavo        |
 
 <div align="justify">
 
 ## Introdução:
 
 <p style="text-indent: 20px; text-align: justify">
-Para garantir que os produtos de software tenham a qualidade esperada e proporcionem uma boa experiência ao usuário, se faz fundamental a etapa de verificação. A verificação visa confirmar se o produto de alguma atividade de desenvolvimento (artefatos, códigosm, etc), condizem com o esperado.
+Para garantir que os produtos de software tenham a qualidade esperada e proporcionem uma boa experiência ao usuário, se faz fundamental a etapa de verificação. A verificação visa confirmar se o produto de alguma atividade de desenvolvimento (artefatos, códigos, etc), condizem com o esperado.
 <p>
 
 ## Metodologia:
