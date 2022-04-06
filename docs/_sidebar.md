@@ -33,13 +33,17 @@
     - **Storyboards**
       - [StoryBoard](documentos/paginas/projeto/StoryBoard/storyBoard.md)
       - [Planejamento de Avaliação do Storyboard](documentos/paginas/planejamentoAvaliacao/planejamentoAvaliacao.md)
-      - [Relato dos Resultados da Avaliação do Storyboard](documentos/paginas/projeto/relatoResultadoStoryboard/resultadoStoryboard.md )
+      - [Relato dos Resultados da Avaliação do Storyboard](documentos/paginas/projeto/relatoResultadoStoryboard/resultadoStoryboard.md)
   - **Nível 2**
+
     - **Protótipo de Papel**
       - [Planejamento da Avaliação do Protótipo de Papel](documentos/paginas/projeto/planejamentoPrototipoPapel/planejamentoPrototipoPapel.md)
     - **Verificação dos Artefatos**
+      - [Guia de Estilo](documentos/paginas/projeto/guiaDeEstilo/guiaVerificacao.md)
       - [Planejamento da Verificação](documentos/paginas/projeto/verificacaoArtefatos/planejamentoDaVerificacao.md)
       - [Perfil do Usuário](documentos/paginas/projeto/verificacaoArtefatos/perfilDeUsuario.md)
+      - [Storyboard](documentos/paginas/projeto/StoryBoard/storyboardVerificacao.md)
+
   - **Nível 3**
 
 - **Apresentações**
