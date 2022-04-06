@@ -8,6 +8,7 @@
 | 02/03/2022 | 0.2    | Revisão do documento | Pedro Helias<br>Carlos Daniel Godoy| **\_\_**            |
 | 07/03/2022 | 0.3    | Revisão do documento | Carlos Daniel Godoy<br>Lucas Ramon | **\_\_**            |
 | 14/03/2022 | 0.4    | Revisão do documento |            **\_\_**                | Carlos Daniel Godoy<br>Lucas Ramon|
+| 05/04/2022 | 0.5    | Revisão do documento |            **\_\_**                | Luiz Gustavo        |
 
 <div align="justify">
 
@@ -21,9 +22,9 @@ O primeiro passo para a compreensão a respeito do usuário é criar um perfil p
 
 <p style="text-align: justify;">No início do projeto, os designers possuem uma ideia inicial de quem são e como são seus usuários e utilizam dessa ideia para iniciar o projeto, porém sendo uma visão superficial e equivocada, é necessário um levantamento de dados para melhor detalhar o perfil dos usuários.</p>
 
-<p style="text-align: justify;">Para levantar detalhes e dados dos usuários, foi aplicada um formulário no google forms no período de 24/02/2022 até 28/02/2022. Foram ao todo 9 perguntas com um tempo médio de resposta de 1 minutos, possuindo perguntas específicas sobre o usuário e opiniões sobre a plataforma.</p>
+<p style="text-align: justify;">Para levantar detalhes e dados dos usuários, foi aplicada um formulário no google forms no período de 24/02/2022 até 28/02/2022. Foram ao todo 9 perguntas com um tempo médio de resposta de 1 minuto, possuindo perguntas específicas sobre o usuário e opiniões sobre a plataforma.</p>
 
-<p style="text-align: justify;">O questionário foi distribuido em grupos de conhecidos e pessoas próximas aos integrantes do grupo, a fim de recolher o maior número de informações possível.
+<p style="text-align: justify;">O questionário foi distribuído em grupos de conhecidos e pessoas próximas aos integrantes do grupo, a fim de recolher o maior número de informações possível.
 </p>
 
 <p style="text-align: justify;">O questionário pode ser acessado clicando <a href="https://forms.gle/Zk8bBxWCJ9MurDRX8">aqui</a>
@@ -84,12 +85,12 @@ Com os resultados coletados por meio deste questionário, é possível criar o p
 - Os usuários possuem entre menos de 18 e mais de 30 anos.
 - A maioria (66%) possui conhecimento sobre a Universidade Yale
 - Apenas 28% dos pesquisados possuem conhecimento sobre o instituto de artes da universidade
-- Os usuários abraangem ambos os gêneros.
+- Os usuários abrangem ambos os gêneros.
 - A maioria (54%) possuem ensino superior incompleto ou cursando, mas há pesquisados de todos os graus de conhecimentos abordados
 - os pesquisados possuem grau de conhecimento em informática variados, desde iniciantes a especialistas.
 - Apenas 12% dos entrevistados se interessaram ou precisaram visitar o site do instituto de artes da universidade.
 - 30% dos usuários classificaram o design do site como péssimo.
-- A maioria (52%) não sabem onde acessar para obter mais informações sobre o instituto de artes.
+- A maioria (52%) não sabe onde acessar para obter mais informações sobre o instituto de artes.
 
 # 5. Referencial bibliográfico utilizado.
 - BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
