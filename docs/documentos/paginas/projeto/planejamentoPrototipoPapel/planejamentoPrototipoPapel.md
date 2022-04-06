@@ -6,7 +6,7 @@
 | :--------: | :----: | :-------------------------------: | :--------------------: | :-----------------: |
 | 29.03.2022 |  0.1   |       Criação do documento        | Ana Júlia, Lucas Ramon | Pedro Helias Carlos |
 | 31.03.2022 |  0.2   | Alterações no documento - Imagens |  Pedro Helias Carlos   | Pedro Helias Carlos |
-
+| 06.04.2022 |  0.2   | Alterações no documento - Imagens |  Pedro Helias Carlos   | Lucas Ramon         |
 <div align="justify">
 
 ## 1. Introdução
