@@ -17,9 +17,9 @@
 
 Para acessar o documento, clique <a href="documentos/paginas/projeto/Personas/personas.md">aqui!</a>
 
-## Checklist
+# Checklist
 
-## <center>Legenda
+## Legenda
 
 <div align="center">
 
