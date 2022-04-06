@@ -47,15 +47,16 @@
 |<center>2  | O Perfil do Usuário levantado descreve um usuário típico?                 | <center>✔        |
 |           | <center>Porcentagem de sucesso                                            | <center>✔100%    |
 
-## Conclusão
+### Conclusão
 
-  Foi encontrado erros de português.
-Acompanhamento
+  Foram encontrados alguns pequenos erros de português.
+
+### Acompanhamento
 
   Foram corrigidos os erros citados na conclusão.
 
 </div>
 
-Bibliografia
+## Bibliografia
 
     Página de verificação do Perfil do Usuário do grupo Prefeitura de Águas Lindas de Goiás - 2020.1
