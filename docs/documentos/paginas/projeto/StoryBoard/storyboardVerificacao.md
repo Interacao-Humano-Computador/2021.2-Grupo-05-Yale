@@ -8,7 +8,7 @@
 
 <div align="justify">
 
-# Contexto:
+## Contexto:
 
 - Técnica: Inspeção por Checklist
 - Autores: Pedro Helias Carlos
@@ -77,11 +77,11 @@ Para acessar o documento, clique <a href="documentos/paginas/projeto/StoryBoard/
 
 </div>
 
-# Conclusão
+## Conclusão
 
 Foram encontrados alguns erros de português e alguns problemas na formatação da página e nas figuras.
 
-# Acompanhamento
+## Acompanhamento
 
 Foram corrigidos os erros citados na conclusão. Uma segunda revisão foi realizada. As imagens naõ seguiam as normas da ABNT e realizou-se a ordenação do texto para justificado
 
