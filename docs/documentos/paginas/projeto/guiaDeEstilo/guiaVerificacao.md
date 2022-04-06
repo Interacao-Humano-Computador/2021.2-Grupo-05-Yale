@@ -33,7 +33,7 @@ Para acessar o documento, clique <a href="documentos/paginas/projeto/guiaDeEstil
 
 </div>
 
-# Resultados Gerais
+## Resultados Gerais
 
 <div align = "center">
 
@@ -58,7 +58,7 @@ Para acessar o documento, clique <a href="documentos/paginas/projeto/guiaDeEstil
 
 </div>
 
-# Resultados Específicos
+## Resultados Específicos
 
 <div align = "center">
 
