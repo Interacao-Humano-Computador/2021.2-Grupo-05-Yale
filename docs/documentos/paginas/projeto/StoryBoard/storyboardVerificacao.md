@@ -4,7 +4,7 @@
 
 | Data       | Versão | Descrição            | Autor(es) | Revisor(es) |
 | ---------- | ------ | -------------------- | --------- | ----------- |
-| 06/04/2022 | 0.1    | Criação do documento | Pedro     | Julia       |
+| 06/04/2022 | 0.1    | Criação do documento | Pedro     | Ana Júlia   |
 
 <div align="justify">
 

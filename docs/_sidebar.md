@@ -43,6 +43,8 @@
       - [Planejamento da Verificação](documentos/paginas/projeto/verificacaoArtefatos/planejamentoDaVerificacao.md)
       - [Perfil do Usuário](documentos/paginas/projeto/verificacaoArtefatos/perfilDeUsuario.md)
       - [Storyboard](documentos/paginas/projeto/StoryBoard/storyboardVerificacao.md)
+      - [Personas](documentos/paginas/projeto/verificacaoArtefatos/personas.md)
+      - [Análise de Tarefas](documentos/paginas/projeto/verificacaoArtefatos/analiseTarefas.md)
 
   - **Nível 3**
 
