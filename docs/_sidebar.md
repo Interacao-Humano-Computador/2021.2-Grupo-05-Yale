@@ -55,3 +55,4 @@
   - [Ponto de Controle 3](documentos/paginas/apresentacao3/apresentacao3.md)
   - [Ponto de Controle 4](documentos/paginas/apresentacao4/apresentacao4.md)
   - [Ponto de Controle 5](documentos/paginas/apresentacao5/apresentacao5.md)
+  - [Ponto de Controle 6](documentos/paginas/apresentacao6/apresentacao6.md)
