@@ -26,7 +26,10 @@ Procurou-se seguir a estrutura original de cores referentes a Universidade YALE,
 
 # 4. Protótipo de Alta Fidelidade
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/LdrsaLhvngWIcaSNOxoYvT/landpage_teste?node-id=4%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A3" allowfullscreen></iframe> 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FLdrsaLhvngWIcaSNOxoYvT%2Flandpage_teste%3Fnode-id%3D4%253A3%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D4%253A3" allowfullscreen></iframe>
+
+
+
 
 
 # 5. Conclusão
