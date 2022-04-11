@@ -47,6 +47,7 @@
       - [Análise de Tarefas](documentos/paginas/projeto/verificacaoArtefatos/analiseTarefas.md)
 
   - **Nível 3**
+    - [Protótipo de Alta Fidelidade](documentos/prototipoAltaFidelidade/prototipoAltaFidelidade.md)
 
 - **Apresentações**
 
