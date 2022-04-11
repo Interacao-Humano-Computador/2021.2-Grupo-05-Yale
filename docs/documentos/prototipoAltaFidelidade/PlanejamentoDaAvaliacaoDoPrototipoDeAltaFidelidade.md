@@ -1,5 +1,12 @@
 # Planejamento da Avaliação do Protótipo de Alta Fidelidade
 
+## Histórico de Versão
+
+| Data       | Versão | Descrição            | Autor(es)             | Revisor(es) |
+| ---------- | ------ | -------------------- | --------------------- | ----------- |
+| 11/04/2022 | 0.1    | Criação do documento | Maicon e Lucas        |             |
+
+
 ## Introdução
 Este documento apresenta o desígnio de organizar o planejamento do protótipo de alta fidelidade. Um protótipo de alta fidelidade é uma representação interativa do produto, já apresentando relação forte com o design final em termos de detalhes e funcionalidade. 
 ## Metodologia
