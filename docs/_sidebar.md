@@ -38,6 +38,7 @@
 
     - **Protótipo de Papel**
       - [Planejamento da Avaliação do Protótipo de Papel](documentos/paginas/projeto/planejamentoPrototipoPapel/planejamentoPrototipoPapel.md)
+      - [Relato da Avaliação do Protótipo de Papel](documentos/paginas/projeto/relatoPrototipoPapel/relatoPrototipoPapel.md)
     - **Verificação dos Artefatos**
       - [Guia de Estilo](documentos/paginas/projeto/guiaDeEstilo/guiaVerificacao.md)
       - [Planejamento da Verificação](documentos/paginas/projeto/verificacaoArtefatos/planejamentoDaVerificacao.md)
