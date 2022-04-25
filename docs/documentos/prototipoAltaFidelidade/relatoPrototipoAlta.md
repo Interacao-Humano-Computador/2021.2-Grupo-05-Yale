@@ -10,13 +10,13 @@
 
 # 1. Introdução
 
+A utilização de protótipos de alta fidelidade são de grande valia na processo de análise da interação humano-computador que, por meio de uma avaliação somativa, permite julgar a qualidade de uso de uma solução procurando ainda identificar se as metas de usabilidade foram alcançadas.
 
 # 2. Método Selecionado
 
 O método selecionado foi a entrevista. Onde conseguimos tirar o máximo de informações úteis e concretas a respeito do protótipo de alta fidelidade, assim como soluções para problemas encontrados durante a avaliação. 
 
 A avaliação só é possível se o participante for ativo durante a entrevista, dando um maior detalhamento no que funcionou e o que não funcionou no protótipo. 
-
 
 
 ## 2.1. Participantes
@@ -38,8 +38,8 @@ Conforme citado anteriormente, as entrevistas realizadas de forma remota, atrav�
 
 # 3. Sumário
 
-- A entrevista com o designer Erick, pode ser encontrada em: <a href="">vídeo</a>
-- A entrevista com o vestibulando Pedro Víctor, pode ser encontrada em: <a href="">vídeo</a>
+- A entrevista com o designer Erick, pode ser encontrada em: <a href="https://youtu.be/q4UvdjDSyPA">vídeo</a>
+- A entrevista com o vestibulando Pedro Víctor, pode ser encontrada em: <a href="https://youtu.be/0FGjU5cIe5s">vídeo</a>
 
 # 4. Relato dos Resultados
 
@@ -52,7 +52,7 @@ O entrevistado demonstrou facilidade na navegação das páginas, conseguindo fa
 
 # 5 Conclusão
 
-Com as entrevistas, tínhamos previsto conseguir validações a respeito do nosso produto e novas ideias propostas pelos entrevistados, assim como soluções advindas de suas dificuldades.
+Com as entrevistas, conseguimos validações a respeito do nosso produto e novas ideias propostas pelos entrevistados, assim como soluções advindas de suas dificuldades.
 O protótipo demonstrou-se eficiente, os entrevistados conseguiram com facilidade concluir as tarefas propostas.
 
 
