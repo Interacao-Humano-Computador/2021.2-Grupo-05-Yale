@@ -44,11 +44,11 @@ Conforme citado anteriormente, as entrevistas realizadas de forma remota, atrav�
 # 4. Relato dos Resultados
 
 ## 4.1 Entrevista com Erick
-
+O entrevistado possui uma alta instrição em uso de computadores e demonstrou gostar do protótipo, porém o mesmo não conseguiu cumprir apenas uma tarefa, sendo ela a de acessar o menu de "apply", o mesmo comentou a falta de uma barra de indicação de rolagem na lateral da página.
 
 
 ## 4.2 Entrevista com Pedro Víctor
-
+O entrevistado demonstrou facilidade na navegação das páginas, conseguindo facilmente concluir quase todas as tarefas propostas, não conseguindo apenas a tarefa de acessar o menu de "apply", o mesmo gostou do protótipo como um todo, elogiando a disposição dos cards e o design das telas.
 
 # 5 Conclusão
 

@@ -50,6 +50,8 @@
 
   - **Nível 3**
     - [Protótipo de Alta Fidelidade](documentos/prototipoAltaFidelidade/prototipoAltaFidelidade.md)
+    - [Planejamento da avaliação do Protótipo de Alta fidelidade](documentos/prototipoAltaFidelidade/PlanejamentoDaAvaliacaoDoPrototipoDeAltaFidelidade.md)
+    - [Relato da avaliação do Protótipo de Alta fidelidade](documentos/prototipoAltaFidelidade/relatoPrototipoAlta.md)
 
 - **Apresentações**
 
