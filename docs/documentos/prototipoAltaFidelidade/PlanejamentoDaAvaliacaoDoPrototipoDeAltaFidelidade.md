@@ -4,7 +4,7 @@
 
 | Data       | Versão | Descrição            | Autor(es)             | Revisor(es) |
 | ---------- | ------ | -------------------- | --------------------- | ----------- |
-| 11/04/2022 | 0.1    | Criação do documento | Maicon e Lucas        |             |
+| 11/04/2022 | 0.1    | Criação do documento | Maicon e Lucas        |      Pedro Helias       |
 
 
 ## Introdução

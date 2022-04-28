@@ -4,7 +4,7 @@
 
 | Data       | Versão | Descrição            | Autor(es)             | Revisor(es) |
 | ---------- | ------ | -------------------- | --------------------- | ----------- |
-| 11/04/2022 | 0.1    | Criação do documento | Pedro e Luiz |       |
+| 11/04/2022 | 0.1    | Criação do documento | Pedro e Luiz |    Pedro Helias   |
 
 
 <div align="justify">
